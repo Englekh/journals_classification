@@ -1,0 +1,176 @@
+index	name	u	p	V	G	H	L
+	root	1.0	4.731	30.479	1.1.1. machine learning theory; 1.1.2.1. data exchange; 1.1.2.2. data provenance; 1.1.2.3. data modeling; 1.1.2.4. database query languages; 1.1.2.5. database constraints theory; 1.1.2.6. database interoperability; 1.1.2.8. database query processing and optimization; 1.1.2.9. data integration; 1.1.2.10. logic and databases; 1.1.2.11. theory of database privacy and security; 1.1.2.12. incomplete; 2.2. multiway data analysis; 2.1.2. probabilistic inference problems; 2.1.5. statistical paradigms; 2.1.6. stochastic processes; 2.1.7. nonparametric statistics; 2.1.8. distribution functions; 2.1.9. multivariate statistics; 2.1.1.1. bayesian networks; 2.1.1.2. markov networks; 2.1.1.4. decision diagrams; 2.1.1.5. equational models; 2.1.1.6. causal networks; 2.1.1.7. stochastic differential equations; 2.1.1.8. nonparametric representations; 2.1.3.1. variable elimination; 2.1.3.2. loopy belief propagation; 2.1.3.3. variational methods; 2.1.3.4. expectation maximization; 2.1.3.6. sequential monte carlo methods; 2.1.3.8. resampling methods; 2.1.3.9. random number generation; 2.1.3.5.1. gibbs sampling; 2.1.3.5.3. simulated annealing; 2.1.3.5.4. markov-chain monte carlo convergence measures; 3.4. information retrieval; 3.5. internet of things; 3.1.1. database design and models; 3.1.2. data structures; 3.1.4. query languages; 3.1.5. information integration; 3.1.3.1. dbms engine architectures; 3.1.3.3. database transaction processing; 3.1.3.4. record and buffer management; 3.1.3.5. parallel and distributed dbmss; 3.1.3.6. triggers and rules; 3.1.3.7. database views; 3.1.3.8. integrity checking; 3.1.3.9. distributed database transactions; 3.1.3.10. main memory engines; 3.1.3.11. online analytical processing engines; 3.1.3.12. stream management; 3.1.3.13. big data; 3.1.3.2.1. query optimization; 3.1.3.2.2. query operators; 3.1.3.2.3. query planning; 3.2.1.1. data cleaning; 3.2.1.2. collaborative filtering; 3.2.1.3. association rules; 3.2.1.4. clustering; 3.2.1.5. nearest-neighbor search; 3.2.1.6. data stream mining; 3.2.1.7. graph mining; 3.2.1.11. text mining; 3.2.1.12. formal concept analysis; 3.2.1.9.1. rule and pattern discovery; 3.2.1.9.2. trajectory clustering; 3.3.1.2. site wrapping; 3.3.1.3. data extraction and integration; 3.3.1.4. web log analysis; 3.3.1.5. traffic analysis; 4.1.3. visualization application domains; 4.1.4. visualization systems and tools; 4.1.5. visualization theory concepts and paradigms; 4.1.6. empirical studies in visualization; 4.1.7. visualization design and evaluation methods; 4.1.2.1. treemaps; 4.1.2.2. hyperbolic trees; 4.1.2.3. heat maps; 4.1.2.5. dendrograms; 4.1.2.6. cladograms; 4.1.2.7. elastic maps; 5.1.1. natural language processing; 5.1.3. computer vision; 5.1.2.1.1. description logics; 5.1.2.1.2. semantic networks; 5.1.2.1.3. nonmonotonic; 5.1.2.1.4. probabilistic reasoning; 5.1.2.1.5. vagueness and fuzzy logic; 5.1.2.1.6. causal reasoning and diagnostics; 5.1.2.1.7. temporal reasoning; 5.1.2.1.9. spatial and physical reasoning; 5.1.2.1.11. answering queries; 5.1.2.2.2. cognitive robotics; 5.1.2.2.3. ontology engineering; 5.1.2.2.4. semantic inference; 5.1.2.2.5. recommender systems; 5.1.2.2.6. conceptual design; 5.1.2.2.7. schema matching; 5.1.2.2.9. taxonomy mapping; 5.2.2. learning settings; 5.2.4. machine learning algorithms; 5.2.5. cross-validation; 5.2.6. deep learning; 5.2.1.1. supervised learning; 5.2.1.3. reinforcement learning; 5.2.1.4. multi-task learning; 5.2.1.2.1. cluster analysis; 5.2.1.2.2. anomaly detection; 5.2.1.2.3. mixture modeling; 5.2.1.2.4. topic modeling; 5.2.1.2.5. source separation; 5.2.1.2.6. motif discovery; 5.2.1.2.7.2. supervised dimesionality reduction; 5.2.3.1. classification and regression trees; 5.2.3.2. kernel methods; 5.2.3.3. neural networks; 5.2.3.4. logical and relational learning; 5.2.3.5. learning in probabilistic graphical models; 5.2.3.7. factorization methods; 5.2.3.8. rule learning; 5.2.3.9. instance-based learning; 5.2.3.10. markov decision processes; 5.2.3.11. partially-observable markov decision processes; 5.2.3.12. stochastic games; 5.2.3.13. learning latent representations; 5.2.3.14. multiresolution; 5.2.3.15. support vector machines; 5.2.3.6.2. linear discriminant analysis	1.1.2.7. data structures and algorithms for data management; 2.1.1.3. factor graphs; 2.1.3.5.2. metropolis-hastings algorithm; 2.1.3.7. kalman filters and hidden markov models; 2.1.4. probabilistic algorithms; 3.1.3.2.4. join algorithms; 3.2.1.8. process mining; 3.2.1.10. data mining tools; 3.2.1.9. sequence mining; 3.3.1.6. knowledge discovery; 4.1.2.4. graph drawings; 5.1.2.1.8. logic programming and answer set programming; 5.1.2.1.10. reasoning about belief and knowledge; 5.1.2.2.1.  knowledge sharing; 5.1.2.2.8. knowledge graph; 5.2.1.2.7. dimensionality reduction and manifold learning; 5.2.3.6. learning linear models	3.2.1.9.1. rule and pattern discovery; 3.2.1.9.2. trajectory clustering; 5.2.1.2.7.2. supervised dimesionality reduction; 5.2.3.6.2. linear discriminant analysis
+1	theory of computation	0.058	0.087	0.696	1.1.1. machine learning theory; 1.1.2.1. data exchange; 1.1.2.2. data provenance; 1.1.2.3. data modeling; 1.1.2.4. database query languages; 1.1.2.5. database constraints theory; 1.1.2.6. database interoperability; 1.1.2.8. database query processing and optimization; 1.1.2.9. data integration; 1.1.2.10. logic and databases; 1.1.2.11. theory of database privacy and security; 1.1.2.12. incomplete	1.1.2.7. data structures and algorithms for data management	
+1.1.1	machine learning theory	0.0	0	0.058	1.1.1. machine learning theory		
+1.1.2	database theory	0.058	0.087	0.638	1.1.2.1. data exchange; 1.1.2.2. data provenance; 1.1.2.3. data modeling; 1.1.2.4. database query languages; 1.1.2.5. database constraints theory; 1.1.2.6. database interoperability; 1.1.2.8. database query processing and optimization; 1.1.2.9. data integration; 1.1.2.10. logic and databases; 1.1.2.11. theory of database privacy and security; 1.1.2.12. incomplete	1.1.2.7. data structures and algorithms for data management	
+1.1.2.1	data exchange	0.0	0	0			
+1.1.2.10	logic and databases	0.0	0	0			
+1.1.2.11	theory of database privacy and security	0.0	0	0			
+1.1.2.12	incomplete	0.0	0	0			
+1.1.2.2	data provenance	0.0	0	0			
+1.1.2.3	data modeling	0.0	0	0			
+1.1.2.4	database query languages	0.0	0	0			
+1.1.2.5	database constraints theory	0.0	0	0			
+1.1.2.6	database interoperability	0.0	0	0			
+1.1.2.7	data structures and algorithms for data management	0.058	0.087	0		1.1.2.7. data structures and algorithms for data management	
+1.1.2.8	database query processing and optimization	0.0	0	0			
+1.1.2.9	data integration	0.0	0	0			
+2	mathematics of computing	0.3	0.853	4.883	2.2. multiway data analysis; 2.1.2. probabilistic inference problems; 2.1.5. statistical paradigms; 2.1.6. stochastic processes; 2.1.7. nonparametric statistics; 2.1.8. distribution functions; 2.1.9. multivariate statistics; 2.1.1.1. bayesian networks; 2.1.1.2. markov networks; 2.1.1.4. decision diagrams; 2.1.1.5. equational models; 2.1.1.6. causal networks; 2.1.1.7. stochastic differential equations; 2.1.1.8. nonparametric representations; 2.1.3.1. variable elimination; 2.1.3.2. loopy belief propagation; 2.1.3.3. variational methods; 2.1.3.4. expectation maximization; 2.1.3.6. sequential monte carlo methods; 2.1.3.8. resampling methods; 2.1.3.9. random number generation; 2.1.3.5.1. gibbs sampling; 2.1.3.5.3. simulated annealing; 2.1.3.5.4. markov-chain monte carlo convergence measures	2.1.1.3. factor graphs; 2.1.3.5.2. metropolis-hastings algorithm; 2.1.3.7. kalman filters and hidden markov models; 2.1.4. probabilistic algorithms	
+2.1	probability and statistics	0.3	0.853	4.583	2.1.2. probabilistic inference problems; 2.1.5. statistical paradigms; 2.1.6. stochastic processes; 2.1.7. nonparametric statistics; 2.1.8. distribution functions; 2.1.9. multivariate statistics; 2.1.1.1. bayesian networks; 2.1.1.2. markov networks; 2.1.1.4. decision diagrams; 2.1.1.5. equational models; 2.1.1.6. causal networks; 2.1.1.7. stochastic differential equations; 2.1.1.8. nonparametric representations; 2.1.3.1. variable elimination; 2.1.3.2. loopy belief propagation; 2.1.3.3. variational methods; 2.1.3.4. expectation maximization; 2.1.3.6. sequential monte carlo methods; 2.1.3.8. resampling methods; 2.1.3.9. random number generation; 2.1.3.5.1. gibbs sampling; 2.1.3.5.3. simulated annealing; 2.1.3.5.4. markov-chain monte carlo convergence measures	2.1.1.3. factor graphs; 2.1.3.5.2. metropolis-hastings algorithm; 2.1.3.7. kalman filters and hidden markov models; 2.1.4. probabilistic algorithms	
+2.1.1	probabilistic representations	0.096	0.143	0.669	2.1.1.1. bayesian networks; 2.1.1.2. markov networks; 2.1.1.4. decision diagrams; 2.1.1.5. equational models; 2.1.1.6. causal networks; 2.1.1.7. stochastic differential equations; 2.1.1.8. nonparametric representations	2.1.1.3. factor graphs	
+2.1.1.1	bayesian networks	0.0	0	0			
+2.1.1.2	markov networks	0.0	0	0			
+2.1.1.3	factor graphs	0.096	0.143	0		2.1.1.3. factor graphs	
+2.1.1.4	decision diagrams	0.0	0	0			
+2.1.1.5	equational models	0.0	0	0			
+2.1.1.6	causal networks	0.0	0	0			
+2.1.1.7	stochastic differential equations	0.0	0	0			
+2.1.1.8	nonparametric representations	0.0	0	0.096	2.1.1.8. nonparametric representations		
+2.1.2	probabilistic inference problems	0.0	0	0.3	2.1.2. probabilistic inference problems		
+2.1.3	probabilistic reasoning algorithms	0.218	0.435	2.113	2.1.3.1. variable elimination; 2.1.3.2. loopy belief propagation; 2.1.3.3. variational methods; 2.1.3.4. expectation maximization; 2.1.3.6. sequential monte carlo methods; 2.1.3.8. resampling methods; 2.1.3.9. random number generation; 2.1.3.5.1. gibbs sampling; 2.1.3.5.3. simulated annealing; 2.1.3.5.4. markov-chain monte carlo convergence measures	2.1.3.5.2. metropolis-hastings algorithm; 2.1.3.7. kalman filters and hidden markov models	
+2.1.3.1	variable elimination	0.0	0	0			
+2.1.3.2	loopy belief propagation	0.0	0	0			
+2.1.3.3	variational methods	0.0	0	0			
+2.1.3.4	expectation maximization	0.0	0	0			
+2.1.3.5	markov-chain monte carlo methods	0.196	0.295	0.589	2.1.3.5.1. gibbs sampling; 2.1.3.5.3. simulated annealing; 2.1.3.5.4. markov-chain monte carlo convergence measures	2.1.3.5.2. metropolis-hastings algorithm	
+2.1.3.5.1	gibbs sampling	0.0	0	0			
+2.1.3.5.2	metropolis-hastings algorithm	0.196	0.295	0		2.1.3.5.2. metropolis-hastings algorithm	
+2.1.3.5.3	simulated annealing	0.0	0	0			
+2.1.3.5.4	markov-chain monte carlo convergence measures	0.0	0	0			
+2.1.3.6	sequential monte carlo methods	0.0	0	0			
+2.1.3.7	kalman filters and hidden markov models	0.094	0.141	0		2.1.3.7. kalman filters and hidden markov models	
+2.1.3.8	resampling methods	0.0	0	0.218	2.1.3.8. resampling methods		
+2.1.3.9	random number generation	0.0	0	0			
+2.1.4	probabilistic algorithms	0.183	0.275	0		2.1.4. probabilistic algorithms	
+2.1.5	statistical paradigms	0.0	0	0.3	2.1.5. statistical paradigms		
+2.1.6	stochastic processes	0.0	0	0.3	2.1.6. stochastic processes		
+2.1.7	nonparametric statistics	0.0	0	0			
+2.1.8	distribution functions	0.0	0	0			
+2.1.9	multivariate statistics	0.0	0	0			
+2.2	multiway data analysis	0.0	0	0.3	2.2. multiway data analysis		
+3	information systems	0.55	1.441	10.533	3.4. information retrieval; 3.5. internet of things; 3.1.1. database design and models; 3.1.2. data structures; 3.1.4. query languages; 3.1.5. information integration; 3.1.3.1. dbms engine architectures; 3.1.3.3. database transaction processing; 3.1.3.4. record and buffer management; 3.1.3.5. parallel and distributed dbmss; 3.1.3.6. triggers and rules; 3.1.3.7. database views; 3.1.3.8. integrity checking; 3.1.3.9. distributed database transactions; 3.1.3.10. main memory engines; 3.1.3.11. online analytical processing engines; 3.1.3.12. stream management; 3.1.3.13. big data; 3.1.3.2.1. query optimization; 3.1.3.2.2. query operators; 3.1.3.2.3. query planning; 3.2.1.1. data cleaning; 3.2.1.2. collaborative filtering; 3.2.1.3. association rules; 3.2.1.4. clustering; 3.2.1.5. nearest-neighbor search; 3.2.1.6. data stream mining; 3.2.1.7. graph mining; 3.2.1.11. text mining; 3.2.1.12. formal concept analysis; 3.2.1.9.1. rule and pattern discovery; 3.2.1.9.2. trajectory clustering; 3.3.1.2. site wrapping; 3.3.1.3. data extraction and integration; 3.3.1.4. web log analysis; 3.3.1.5. traffic analysis	3.1.3.2.4. join algorithms; 3.2.1.8. process mining; 3.2.1.10. data mining tools; 3.2.1.9. sequence mining; 3.3.1.6. knowledge discovery	3.2.1.9.1. rule and pattern discovery; 3.2.1.9.2. trajectory clustering
+3.1	data management systems	0.343	0.515	6.522	3.1.1. database design and models; 3.1.2. data structures; 3.1.4. query languages; 3.1.5. information integration; 3.1.3.1. dbms engine architectures; 3.1.3.3. database transaction processing; 3.1.3.4. record and buffer management; 3.1.3.5. parallel and distributed dbmss; 3.1.3.6. triggers and rules; 3.1.3.7. database views; 3.1.3.8. integrity checking; 3.1.3.9. distributed database transactions; 3.1.3.10. main memory engines; 3.1.3.11. online analytical processing engines; 3.1.3.12. stream management; 3.1.3.13. big data; 3.1.3.2.1. query optimization; 3.1.3.2.2. query operators; 3.1.3.2.3. query planning	3.1.3.2.4. join algorithms	
+3.1.1	database design and models	0.0	0	0.343	3.1.1. database design and models		
+3.1.2	data structures	0.0	0	0.343	3.1.2. data structures		
+3.1.3	database management system engines	0.343	0.515	5.149	3.1.3.1. dbms engine architectures; 3.1.3.3. database transaction processing; 3.1.3.4. record and buffer management; 3.1.3.5. parallel and distributed dbmss; 3.1.3.6. triggers and rules; 3.1.3.7. database views; 3.1.3.8. integrity checking; 3.1.3.9. distributed database transactions; 3.1.3.10. main memory engines; 3.1.3.11. online analytical processing engines; 3.1.3.12. stream management; 3.1.3.13. big data; 3.1.3.2.1. query optimization; 3.1.3.2.2. query operators; 3.1.3.2.3. query planning	3.1.3.2.4. join algorithms	
+3.1.3.1	dbms engine architectures	0.0	0	0			
+3.1.3.10	main memory engines	0.0	0	0			
+3.1.3.11	online analytical processing engines	0.0	0	0			
+3.1.3.12	stream management	0.0	0	0			
+3.1.3.13	big data	0.0	0	0.343	3.1.3.13. big data		
+3.1.3.2	database query processing	0.343	0.515	1.03	3.1.3.2.1. query optimization; 3.1.3.2.2. query operators; 3.1.3.2.3. query planning	3.1.3.2.4. join algorithms	
+3.1.3.2.1	query optimization	0.0	0	0			
+3.1.3.2.2	query operators	0.0	0	0			
+3.1.3.2.3	query planning	0.0	0	0			
+3.1.3.2.4	join algorithms	0.343	0.515	0		3.1.3.2.4. join algorithms	
+3.1.3.3	database transaction processing	0.0	0	0.343	3.1.3.3. database transaction processing		
+3.1.3.4	record and buffer management	0.0	0	0			
+3.1.3.5	parallel and distributed dbmss	0.0	0	0.343	3.1.3.5. parallel and distributed dbmss		
+3.1.3.6	triggers and rules	0.0	0	0			
+3.1.3.7	database views	0.0	0	0			
+3.1.3.8	integrity checking	0.0	0	0			
+3.1.3.9	distributed database transactions	0.0	0	0.343	3.1.3.9. distributed database transactions		
+3.1.4	query languages	0.0	0	0.343	3.1.4. query languages		
+3.1.5	information integration	0.0	0	0.343	3.1.5. information integration		
+3.2	information systems applications	0.123	0.309	1.267	3.2.1.1. data cleaning; 3.2.1.2. collaborative filtering; 3.2.1.3. association rules; 3.2.1.4. clustering; 3.2.1.5. nearest-neighbor search; 3.2.1.6. data stream mining; 3.2.1.7. graph mining; 3.2.1.11. text mining; 3.2.1.12. formal concept analysis; 3.2.1.9.1. rule and pattern discovery; 3.2.1.9.2. trajectory clustering	3.2.1.8. process mining; 3.2.1.10. data mining tools; 3.2.1.9. sequence mining	3.2.1.9.1. rule and pattern discovery; 3.2.1.9.2. trajectory clustering
+3.2.1.1	data cleaning	0.0	0	0			
+3.2.1.10	data mining tools	0.055	0.083	0		3.2.1.10. data mining tools	
+3.2.1.11	text mining	0.0	0	0.123	3.2.1.11. text mining		
+3.2.1.12	formal concept analysis	0.0	0	0			
+3.2.1.2	collaborative filtering	0.0	0	0.123	3.2.1.2. collaborative filtering		
+3.2.1.3	association rules	0.0	0	0.123	3.2.1.3. association rules		
+3.2.1.4	clustering	0.0	0	0.123	3.2.1.4. clustering		
+3.2.1.5	nearest-neighbor search	0.0	0	0			
+3.2.1.6	data stream mining	0.0	0	0			
+3.2.1.7	graph mining	0.0	0	0.123	3.2.1.7. graph mining		
+3.2.1.8	process mining	0.077	0.116	0		3.2.1.8. process mining	
+3.2.1.9	sequence mining	0.079	0.11	0.157	3.2.1.9.1. rule and pattern discovery; 3.2.1.9.2. trajectory clustering	3.2.1.9. sequence mining	3.2.1.9.1. rule and pattern discovery; 3.2.1.9.2. trajectory clustering
+3.2.1.9.1	rule and pattern discovery	0.0	0	0			
+3.2.1.9.2	trajectory clustering	0.0	0	0			
+3.2.1.9.3	market graph	0.079	0.118	0		3.2.1.9.3. market graph	
+3.3	world wide web	0.411	0.617	1.645	3.3.1.2. site wrapping; 3.3.1.3. data extraction and integration; 3.3.1.4. web log analysis; 3.3.1.5. traffic analysis	3.3.1.6. knowledge discovery	
+3.3.1.2	site wrapping	0.0	0	0			
+3.3.1.3	data extraction and integration	0.0	0	0.411	3.3.1.3. data extraction and integration		
+3.3.1.4	web log analysis	0.0	0	0			
+3.3.1.5	traffic analysis	0.0	0	0			
+3.3.1.6	knowledge discovery	0.411	0.617	0		3.3.1.6. knowledge discovery	
+3.4	information retrieval	0.0	0	0.55	3.4. information retrieval		
+3.5	internet of things	0.0	0	0.55	3.5. internet of things		
+4	human-centered computing	0.127	0.191	1.399	4.1.3. visualization application domains; 4.1.4. visualization systems and tools; 4.1.5. visualization theory concepts and paradigms; 4.1.6. empirical studies in visualization; 4.1.7. visualization design and evaluation methods; 4.1.2.1. treemaps; 4.1.2.2. hyperbolic trees; 4.1.2.3. heat maps; 4.1.2.5. dendrograms; 4.1.2.6. cladograms; 4.1.2.7. elastic maps	4.1.2.4. graph drawings	
+4.1.2	visualization techniques	0.127	0.191	0.763	4.1.2.1. treemaps; 4.1.2.2. hyperbolic trees; 4.1.2.3. heat maps; 4.1.2.5. dendrograms; 4.1.2.6. cladograms; 4.1.2.7. elastic maps	4.1.2.4. graph drawings	
+4.1.2.1	treemaps	0.0	0	0			
+4.1.2.2	hyperbolic trees	0.0	0	0			
+4.1.2.3	heat maps	0.0	0	0			
+4.1.2.4	graph drawings	0.127	0.191	0		4.1.2.4. graph drawings	
+4.1.2.5	dendrograms	0.0	0	0			
+4.1.2.6	cladograms	0.0	0	0			
+4.1.2.7	elastic maps	0.0	0	0			
+4.1.3	visualization application domains	0.0	0	0.127	4.1.3. visualization application domains		
+4.1.4	visualization systems and tools	0.0	0	0.127	4.1.4. visualization systems and tools		
+4.1.5	visualization theory concepts and paradigms	0.0	0	0			
+4.1.6	empirical studies in visualization	0.0	0	0			
+4.1.7	visualization design and evaluation methods	0.0	0	0			
+5	computing methodologies	0.767	2.159	12.967	5.1.1. natural language processing; 5.1.3. computer vision; 5.1.2.1.1. description logics; 5.1.2.1.2. semantic networks; 5.1.2.1.3. nonmonotonic; 5.1.2.1.4. probabilistic reasoning; 5.1.2.1.5. vagueness and fuzzy logic; 5.1.2.1.6. causal reasoning and diagnostics; 5.1.2.1.7. temporal reasoning; 5.1.2.1.9. spatial and physical reasoning; 5.1.2.1.11. answering queries; 5.1.2.2.2. cognitive robotics; 5.1.2.2.3. ontology engineering; 5.1.2.2.4. semantic inference; 5.1.2.2.5. recommender systems; 5.1.2.2.6. conceptual design; 5.1.2.2.7. schema matching; 5.1.2.2.9. taxonomy mapping; 5.2.2. learning settings; 5.2.4. machine learning algorithms; 5.2.5. cross-validation; 5.2.6. deep learning; 5.2.1.1. supervised learning; 5.2.1.3. reinforcement learning; 5.2.1.4. multi-task learning; 5.2.1.2.1. cluster analysis; 5.2.1.2.2. anomaly detection; 5.2.1.2.3. mixture modeling; 5.2.1.2.4. topic modeling; 5.2.1.2.5. source separation; 5.2.1.2.6. motif discovery; 5.2.1.2.7.2. supervised dimesionality reduction; 5.2.3.1. classification and regression trees; 5.2.3.2. kernel methods; 5.2.3.3. neural networks; 5.2.3.4. logical and relational learning; 5.2.3.5. learning in probabilistic graphical models; 5.2.3.7. factorization methods; 5.2.3.8. rule learning; 5.2.3.9. instance-based learning; 5.2.3.10. markov decision processes; 5.2.3.11. partially-observable markov decision processes; 5.2.3.12. stochastic games; 5.2.3.13. learning latent representations; 5.2.3.14. multiresolution; 5.2.3.15. support vector machines; 5.2.3.6.2. linear discriminant analysis	5.1.2.1.8. logic programming and answer set programming; 5.1.2.1.10. reasoning about belief and knowledge; 5.1.2.2.1.  knowledge sharing; 5.1.2.2.8. knowledge graph; 5.2.1.2.7. dimensionality reduction and manifold learning; 5.2.3.6. learning linear models	5.2.1.2.7.2. supervised dimesionality reduction; 5.2.3.6.2. linear discriminant analysis
+5.1	artificial intelligence	0.736	1.835	8.354	5.1.1. natural language processing; 5.1.3. computer vision; 5.1.2.1.1. description logics; 5.1.2.1.2. semantic networks; 5.1.2.1.3. nonmonotonic; 5.1.2.1.4. probabilistic reasoning; 5.1.2.1.5. vagueness and fuzzy logic; 5.1.2.1.6. causal reasoning and diagnostics; 5.1.2.1.7. temporal reasoning; 5.1.2.1.9. spatial and physical reasoning; 5.1.2.1.11. answering queries; 5.1.2.2.2. cognitive robotics; 5.1.2.2.3. ontology engineering; 5.1.2.2.4. semantic inference; 5.1.2.2.5. recommender systems; 5.1.2.2.6. conceptual design; 5.1.2.2.7. schema matching; 5.1.2.2.9. taxonomy mapping	5.1.2.1.8. logic programming and answer set programming; 5.1.2.1.10. reasoning about belief and knowledge; 5.1.2.2.1.  knowledge sharing; 5.1.2.2.8. knowledge graph	
+5.1.1	natural language processing	0.0	0	0.736	5.1.1. natural language processing		
+5.1.2	knowledge engineering	0.736	1.835	6.883	5.1.2.1.1. description logics; 5.1.2.1.2. semantic networks; 5.1.2.1.3. nonmonotonic; 5.1.2.1.4. probabilistic reasoning; 5.1.2.1.5. vagueness and fuzzy logic; 5.1.2.1.6. causal reasoning and diagnostics; 5.1.2.1.7. temporal reasoning; 5.1.2.1.9. spatial and physical reasoning; 5.1.2.1.11. answering queries; 5.1.2.2.2. cognitive robotics; 5.1.2.2.3. ontology engineering; 5.1.2.2.4. semantic inference; 5.1.2.2.5. recommender systems; 5.1.2.2.6. conceptual design; 5.1.2.2.7. schema matching; 5.1.2.2.9. taxonomy mapping	5.1.2.1.8. logic programming and answer set programming; 5.1.2.1.10. reasoning about belief and knowledge; 5.1.2.2.1.  knowledge sharing; 5.1.2.2.8. knowledge graph	
+5.1.2.1	knowledge representation and reasoning	0.219	0.397	1.967	5.1.2.1.1. description logics; 5.1.2.1.2. semantic networks; 5.1.2.1.3. nonmonotonic; 5.1.2.1.4. probabilistic reasoning; 5.1.2.1.5. vagueness and fuzzy logic; 5.1.2.1.6. causal reasoning and diagnostics; 5.1.2.1.7. temporal reasoning; 5.1.2.1.9. spatial and physical reasoning; 5.1.2.1.11. answering queries	5.1.2.1.8. logic programming and answer set programming; 5.1.2.1.10. reasoning about belief and knowledge	
+5.1.2.1.1	description logics	0.0	0	0			
+5.1.2.1.10	reasoning about belief and knowledge	0.212	0.318	0		5.1.2.1.10. reasoning about belief and knowledge	
+5.1.2.1.11	answering queries	0.0	0	0			
+5.1.2.1.2	semantic networks	0.0	0	0			
+5.1.2.1.3	nonmonotonic	0.0	0	0			
+5.1.2.1.4	probabilistic reasoning	0.0	0	0			
+5.1.2.1.5	vagueness and fuzzy logic	0.0	0	0			
+5.1.2.1.6	causal reasoning and diagnostics	0.0	0	0			
+5.1.2.1.7	temporal reasoning	0.0	0	0			
+5.1.2.1.8	logic programming and answer set programming	0.052	0.079	0		5.1.2.1.8. logic programming and answer set programming	
+5.1.2.1.9	spatial and physical reasoning	0.0	0	0			
+5.1.2.2	knowledge management	0.702	1.438	4.916	5.1.2.2.2. cognitive robotics; 5.1.2.2.3. ontology engineering; 5.1.2.2.4. semantic inference; 5.1.2.2.5. recommender systems; 5.1.2.2.6. conceptual design; 5.1.2.2.7. schema matching; 5.1.2.2.9. taxonomy mapping	5.1.2.2.1.  knowledge sharing; 5.1.2.2.8. knowledge graph	
+5.1.2.2.1	 knowledge sharing	0.35	0.525	0		5.1.2.2.1.  knowledge sharing	
+5.1.2.2.2	cognitive robotics	0.0	0	0			
+5.1.2.2.3	ontology engineering	0.0	0	0			
+5.1.2.2.4	semantic inference	0.0	0	0			
+5.1.2.2.5	recommender systems	0.0	0	0			
+5.1.2.2.6	conceptual design	0.0	0	0			
+5.1.2.2.7	schema matching	0.0	0	0			
+5.1.2.2.8	knowledge graph	0.609	0.914	0		5.1.2.2.8. knowledge graph	
+5.1.2.2.9	taxonomy mapping	0.0	0	0			
+5.1.3	computer vision	0.0	0	0.736	5.1.3. computer vision		
+5.2	machine learning	0.217	0.324	4.613	5.2.2. learning settings; 5.2.4. machine learning algorithms; 5.2.5. cross-validation; 5.2.6. deep learning; 5.2.1.1. supervised learning; 5.2.1.3. reinforcement learning; 5.2.1.4. multi-task learning; 5.2.1.2.1. cluster analysis; 5.2.1.2.2. anomaly detection; 5.2.1.2.3. mixture modeling; 5.2.1.2.4. topic modeling; 5.2.1.2.5. source separation; 5.2.1.2.6. motif discovery; 5.2.1.2.7.2. supervised dimesionality reduction; 5.2.3.1. classification and regression trees; 5.2.3.2. kernel methods; 5.2.3.3. neural networks; 5.2.3.4. logical and relational learning; 5.2.3.5. learning in probabilistic graphical models; 5.2.3.7. factorization methods; 5.2.3.8. rule learning; 5.2.3.9. instance-based learning; 5.2.3.10. markov decision processes; 5.2.3.11. partially-observable markov decision processes; 5.2.3.12. stochastic games; 5.2.3.13. learning latent representations; 5.2.3.14. multiresolution; 5.2.3.15. support vector machines; 5.2.3.6.2. linear discriminant analysis	5.2.1.2.7. dimensionality reduction and manifold learning; 5.2.3.6. learning linear models	5.2.1.2.7.2. supervised dimesionality reduction; 5.2.3.6.2. linear discriminant analysis
+5.2.1	learning paradigms	0.062	0.074	0.616	5.2.1.1. supervised learning; 5.2.1.3. reinforcement learning; 5.2.1.4. multi-task learning; 5.2.1.2.1. cluster analysis; 5.2.1.2.2. anomaly detection; 5.2.1.2.3. mixture modeling; 5.2.1.2.4. topic modeling; 5.2.1.2.5. source separation; 5.2.1.2.6. motif discovery; 5.2.1.2.7.2. supervised dimesionality reduction	5.2.1.2.7. dimensionality reduction and manifold learning	5.2.1.2.7.2. supervised dimesionality reduction
+5.2.1.1	supervised learning	0.0	0	0.062	5.2.1.1. supervised learning		
+5.2.1.2	unsupervised learning	0.062	0.074	0.432	5.2.1.2.1. cluster analysis; 5.2.1.2.2. anomaly detection; 5.2.1.2.3. mixture modeling; 5.2.1.2.4. topic modeling; 5.2.1.2.5. source separation; 5.2.1.2.6. motif discovery; 5.2.1.2.7.2. supervised dimesionality reduction	5.2.1.2.7. dimensionality reduction and manifold learning	5.2.1.2.7.2. supervised dimesionality reduction
+5.2.1.2.1	cluster analysis	0.0	0	0			
+5.2.1.2.2	anomaly detection	0.0	0	0			
+5.2.1.2.3	mixture modeling	0.0	0	0			
+5.2.1.2.4	topic modeling	0.0	0	0			
+5.2.1.2.5	source separation	0.0	0	0			
+5.2.1.2.6	motif discovery	0.0	0	0			
+5.2.1.2.7	dimensionality reduction and manifold learning	0.062	0.074	0.062	5.2.1.2.7.2. supervised dimesionality reduction	5.2.1.2.7. dimensionality reduction and manifold learning	5.2.1.2.7.2. supervised dimesionality reduction
+5.2.1.2.7.1	graph embedding	0.062	0.092	0		5.2.1.2.7.1. graph embedding	
+5.2.1.2.7.2	supervised dimesionality reduction	0.0	0	0			
+5.2.1.3	reinforcement learning	0.0	0	0.062	5.2.1.3. reinforcement learning		
+5.2.1.4	multi-task learning	0.0	0	0.062	5.2.1.4. multi-task learning		
+5.2.2	learning settings	0.0	0	0.217	5.2.2. learning settings		
+5.2.3	machine learning approaches	0.208	0.25	3.127	5.2.3.1. classification and regression trees; 5.2.3.2. kernel methods; 5.2.3.3. neural networks; 5.2.3.4. logical and relational learning; 5.2.3.5. learning in probabilistic graphical models; 5.2.3.7. factorization methods; 5.2.3.8. rule learning; 5.2.3.9. instance-based learning; 5.2.3.10. markov decision processes; 5.2.3.11. partially-observable markov decision processes; 5.2.3.12. stochastic games; 5.2.3.13. learning latent representations; 5.2.3.14. multiresolution; 5.2.3.15. support vector machines; 5.2.3.6.2. linear discriminant analysis	5.2.3.6. learning linear models	5.2.3.6.2. linear discriminant analysis
+5.2.3.1	classification and regression trees	0.0	0	0.208	5.2.3.1. classification and regression trees		
+5.2.3.10	markov decision processes	0.0	0	0			
+5.2.3.11	partially-observable markov decision processes	0.0	0	0			
+5.2.3.12	stochastic games	0.0	0	0			
+5.2.3.13	learning latent representations	0.0	0	0.208	5.2.3.13. learning latent representations		
+5.2.3.14	multiresolution	0.0	0	0			
+5.2.3.15	support vector machines	0.0	0	0			
+5.2.3.2	kernel methods	0.0	0	0.208	5.2.3.2. kernel methods		
+5.2.3.3	neural networks	0.0	0	0.208	5.2.3.3. neural networks		
+5.2.3.4	logical and relational learning	0.0	0	0.208	5.2.3.4. logical and relational learning		
+5.2.3.5	learning in probabilistic graphical models	0.0	0	0.208	5.2.3.5. learning in probabilistic graphical models		
+5.2.3.6	learning linear models	0.208	0.25	0.208	5.2.3.6.2. linear discriminant analysis	5.2.3.6. learning linear models	5.2.3.6.2. linear discriminant analysis
+5.2.3.6.1	perceptron algorithm	0.208	0.313	0		5.2.3.6.1. perceptron algorithm	
+5.2.3.6.2	linear discriminant analysis	0.0	0	0.208	5.2.3.6.2. linear discriminant analysis		
+5.2.3.7	factorization methods	0.0	0	0.208	5.2.3.7. factorization methods		
+5.2.3.8	rule learning	0.0	0	0.208	5.2.3.8. rule learning		
+5.2.3.9	instance-based learning	0.0	0	0			
+5.2.4	machine learning algorithms	0.0	0	0.217	5.2.4. machine learning algorithms		
+5.2.5	cross-validation	0.0	0	0			
+5.2.6	deep learning	0.0	0	0.217	5.2.6. deep learning		
