@@ -1,0 +1,455 @@
+index	name	u	p	V	G	H	L
+	root	1.0	6.094	25.471	1.1.1.5. boosting; 1.1.1.6. bayesian analysis; 1.1.1.7. inductive inference; 1.1.1.8. online learning theory; 1.1.1.9. multi-agent learning; 1.1.1.10. models of learning; 1.1.1.11. query learning; 1.1.1.16. markov decision processes; 1.1.1.17. regret bounds; 1.1.1.4.3. modelling; 1.1.1.13.1. sequential decision making; 1.1.1.13.3. apprenticeship learning; 1.1.1.13.5. adversarial learning; 1.1.2.1. data exchange; 1.1.2.3. data modeling; 1.1.2.5. database constraints theory; 1.1.2.6. database interoperability; 1.1.2.10. logic and databases; 1.1.2.11. theory of database privacy and security; 2.1.1.1. bayesian networks; 2.1.1.2. markov networks; 2.1.1.6. causal networks; 2.1.1.7. stochastic differential equations; 2.1.1.8.3. bayesian nonparametric models; 2.1.2.1. maximum likelihood estimation; 2.1.2.4. hypothesis testing and confidence interval computation; 2.1.3.2. loopy belief propagation; 2.1.3.7. kalman filters and hidden markov models; 2.1.3.9. random number generation; 2.1.3.5.1. gibbs sampling; 2.1.3.5.4. markov-chain monte carlo convergence measures; 2.1.5.3. regression analysis; 2.1.5.6. renewal theory; 2.1.5.7. dimensionality reduction; 2.2.1. tensor decomposition; 2.2.2. tensor factorization; 3.1.1.2. entity relationship models; 3.1.1.4. physical data models; 3.1.1.3.1. hierarchical data models; 3.1.1.5.1. semi-structured data; 3.1.1.5.2. data streams; 3.1.1.5.5. temporal data; 3.1.1.5.6. uncertainty; 3.1.1.5.7. inconsistent data; 3.1.2.2. data layout; 3.1.2.1.1. multidimensional range search; 3.1.2.1.2. data scans; 3.1.2.1.5. proximity search; 3.1.3.4. record and buffer management; 3.1.3.5. parallel and distributed dbmss; 3.1.3.6. triggers and rules; 3.1.3.7. database views; 3.1.3.8. integrity checking; 3.1.3.10. main memory engines; 3.1.3.2.1. query optimization; 3.1.3.2.2. query operators; 3.1.3.2.3. query planning; 3.1.3.3.2. transaction logging; 3.1.3.9.2. deadlocks; 3.1.3.13.2. hadoop; 3.1.4.1. relational database query languages; 3.1.4.4. call level interfaces; 3.1.4.2.1 xpath; 3.1.5.1. deduplication; 3.1.5.5. wrappers; 3.1.5.8. data warehouses; 3.1.5.10. quality of the data; 3.1.5.11. validation of data; 3.2.1.8. process mining; 3.2.1.11. text mining; 3.2.1.10. data mining tools; 3.2.1.12. formal concept analysis; 3.2.1.3.2. interestingness; 3.2.1.3.3. parallel computation; 3.2.1.4.1. massive data clustering; 3.2.1.4.3. fuzzy clustering; 3.2.1.4.5. feature weight clustering; 3.2.1.4.6. conceptual clustering; 3.2.1.4.7. biclustering; 3.2.1.7.4. anomaly detection; 3.2.1.7.5. critical nodes detection; 3.2.1.9.3. market graph; 3.3.1.6. knowledge discovery; 3.3.1.3.2. surfacing; 3.4.1.1. document structure; 3.4.1.3. content analysis and feature selection; 3.4.1.6. ontologies; 3.4.1.7. dictionaries; 3.4.2.1. query representation; 3.4.2.2. query intent; 3.4.2.4. query suggestion; 3.4.3.1. personalization; 3.4.3.2. task models; 3.4.3.4. collaborative search; 3.4.4.4. similarity measures; 3.4.4.7. information retrieval diversity; 3.4.4.8. top-k retrieval in databases; 3.4.5.2. document filtering; 3.4.5.4. information extraction; 3.4.5.6. expert search; 3.4.5.8. clustering and classification; 3.4.5.9. summarization; 3.4.5.10. business intelligence; 3.4.6.3. retrieval effectiveness; 3.4.6.4. retrieval efficiency; 3.4.7.3. environment-specific retrieval; 3.4.7.1.1. structured text search; 3.4.7.1.2. mathematics retrieval; 3.4.7.2.1. image search; 3.5.2. smart city; 4.1.4. visualization systems and tools; 4.1.6. empirical studies in visualization; 4.1.7. visualization design and evaluation methods; 4.1.2.2. hyperbolic trees; 4.1.2.3. heat maps; 4.1.2.5. dendrograms; 4.1.2.6. cladograms; 4.1.2.7. elastic maps; 4.1.3.1. scientific visualization; 4.1.3.2. visual analytics; 4.1.3.4. information visualization; 5.1.1.3. machine translation; 5.1.1.9. language resources; 5.1.2.1.2. semantic networks; 5.1.2.1.3. nonmonotonic; 5.1.2.1.4. probabilistic reasoning; 5.1.2.1.5. vagueness and fuzzy logic; 5.1.2.1.7. temporal reasoning; 5.1.2.1.9. spatial and physical reasoning; 5.1.2.1.10. reasoning about belief and knowledge; 5.1.2.1.11. answering queries; 5.1.2.2.1.  knowledge sharing; 5.1.2.2.2. cognitive robotics; 5.1.2.2.6. conceptual design; 5.1.2.2.8. knowledge graph; 5.1.3.1.3. video segmentation; 5.1.3.1.6. object recognition; 5.1.3.1.7. object identification; 5.1.3.1.8. tracking; 5.1.3.2.4. hierarchical representations; 5.2.1.2.4. topic modeling; 5.2.1.2.5. source separation; 5.2.1.4.2. lifelong machine learning; 5.2.1.4.3. learning under covariate shift; 5.2.2.1. batch learning; 5.2.2.3. learning from demonstrations; 5.2.2.5. learning from implicit feedback; 5.2.2.6. active learning settings; 5.2.3.9. instance-based learning; 5.2.3.11. partially-observable markov decision processes; 5.2.3.13. learning latent representations; 5.2.3.1.1. parallel implementation; 5.2.3.1.3. model trees; 5.2.3.2.1. kernel support vector machines; 5.2.3.2.4. kernel independent components; 5.2.3.3.1. self organized map; 5.2.3.3.2. training approaches; 5.2.3.3.3. representation; 5.2.3.3.4. evolving nn; 5.2.3.4.1. inductive logic learning; 5.2.3.5.2. maximum entropy modeling; 5.2.3.5.3. maximum a posteriori modeling; 5.2.3.5.5. latent variable models; 5.2.3.5.6. bayesian network models; 5.2.3.6.2. linear discriminant analysis; 5.2.3.7.1. non-negative matrix factorization; 5.2.3.7.4. canonical correlation analysis; 5.2.3.7.6. latent dirichlet allocation; 5.2.3.7.8. independent component analysis; 5.2.3.7.9. nonlinear principal components; 5.2.4.3. spectral methods; 5.2.4.5. regularization; 5.2.4.1.3. policy iteration; 5.2.4.1.4. temporal difference learning; 5.2.4.1.5. approximate dynamic programming methods; 5.2.4.2.2. bagging; 5.2.6.5. transformer nn; 5.2.6.6. generative adversarial networks gan; 5.2.6.2.1. pooling	 root	1.1.1.5. boosting; 1.1.1.6. bayesian analysis; 1.1.1.7. inductive inference; 1.1.1.8. online learning theory; 1.1.1.9. multi-agent learning; 1.1.1.10. models of learning; 1.1.1.11. query learning; 1.1.1.16. markov decision processes; 1.1.1.17. regret bounds; 1.1.1.4.3. modelling; 1.1.1.13.1. sequential decision making; 1.1.1.13.3. apprenticeship learning; 1.1.1.13.5. adversarial learning; 1.1.2.1. data exchange; 1.1.2.3. data modeling; 1.1.2.5. database constraints theory; 1.1.2.6. database interoperability; 1.1.2.10. logic and databases; 1.1.2.11. theory of database privacy and security; 2.1.1.1. bayesian networks; 2.1.1.2. markov networks; 2.1.1.6. causal networks; 2.1.1.7. stochastic differential equations; 2.1.1.8.3. bayesian nonparametric models; 2.1.2.1. maximum likelihood estimation; 2.1.2.4. hypothesis testing and confidence interval computation; 2.1.3.2. loopy belief propagation; 2.1.3.7. kalman filters and hidden markov models; 2.1.3.9. random number generation; 2.1.3.5.1. gibbs sampling; 2.1.3.5.4. markov-chain monte carlo convergence measures; 2.1.5.3. regression analysis; 2.1.5.6. renewal theory; 2.1.5.7. dimensionality reduction; 2.2.1. tensor decomposition; 2.2.2. tensor factorization; 3.1.1.2. entity relationship models; 3.1.1.4. physical data models; 3.1.1.3.1. hierarchical data models; 3.1.1.5.1. semi-structured data; 3.1.1.5.2. data streams; 3.1.1.5.5. temporal data; 3.1.1.5.6. uncertainty; 3.1.1.5.7. inconsistent data; 3.1.2.2. data layout; 3.1.2.1.1. multidimensional range search; 3.1.2.1.2. data scans; 3.1.2.1.5. proximity search; 3.1.3.4. record and buffer management; 3.1.3.5. parallel and distributed dbmss; 3.1.3.6. triggers and rules; 3.1.3.7. database views; 3.1.3.8. integrity checking; 3.1.3.10. main memory engines; 3.1.3.2.1. query optimization; 3.1.3.2.2. query operators; 3.1.3.2.3. query planning; 3.1.3.3.2. transaction logging; 3.1.3.9.2. deadlocks; 3.1.3.13.2. hadoop; 3.1.4.1. relational database query languages; 3.1.4.4. call level interfaces; 3.1.4.2.1 xpath; 3.1.5.1. deduplication; 3.1.5.5. wrappers; 3.1.5.8. data warehouses; 3.1.5.10. quality of the data; 3.1.5.11. validation of data; 3.2.1.8. process mining; 3.2.1.11. text mining; 3.2.1.10. data mining tools; 3.2.1.12. formal concept analysis; 3.2.1.3.2. interestingness; 3.2.1.3.3. parallel computation; 3.2.1.4.1. massive data clustering; 3.2.1.4.3. fuzzy clustering; 3.2.1.4.5. feature weight clustering; 3.2.1.4.6. conceptual clustering; 3.2.1.4.7. biclustering; 3.2.1.7.4. anomaly detection; 3.2.1.7.5. critical nodes detection; 3.2.1.9.3. market graph; 3.3.1.6. knowledge discovery; 3.3.1.3.2. surfacing; 3.4.1.1. document structure; 3.4.1.3. content analysis and feature selection; 3.4.1.6. ontologies; 3.4.1.7. dictionaries; 3.4.2.1. query representation; 3.4.2.2. query intent; 3.4.2.4. query suggestion; 3.4.3.1. personalization; 3.4.3.2. task models; 3.4.3.4. collaborative search; 3.4.4.4. similarity measures; 3.4.4.7. information retrieval diversity; 3.4.4.8. top-k retrieval in databases; 3.4.5.2. document filtering; 3.4.5.4. information extraction; 3.4.5.6. expert search; 3.4.5.8. clustering and classification; 3.4.5.9. summarization; 3.4.5.10. business intelligence; 3.4.6.3. retrieval effectiveness; 3.4.6.4. retrieval efficiency; 3.4.7.3. environment-specific retrieval; 3.4.7.1.1. structured text search; 3.4.7.1.2. mathematics retrieval; 3.4.7.2.1. image search; 3.5.2. smart city; 4.1.4. visualization systems and tools; 4.1.6. empirical studies in visualization; 4.1.7. visualization design and evaluation methods; 4.1.2.2. hyperbolic trees; 4.1.2.3. heat maps; 4.1.2.5. dendrograms; 4.1.2.6. cladograms; 4.1.2.7. elastic maps; 4.1.3.1. scientific visualization; 4.1.3.2. visual analytics; 4.1.3.4. information visualization; 5.1.1.3. machine translation; 5.1.1.9. language resources; 5.1.2.1.2. semantic networks; 5.1.2.1.3. nonmonotonic; 5.1.2.1.4. probabilistic reasoning; 5.1.2.1.5. vagueness and fuzzy logic; 5.1.2.1.7. temporal reasoning; 5.1.2.1.9. spatial and physical reasoning; 5.1.2.1.10. reasoning about belief and knowledge; 5.1.2.1.11. answering queries; 5.1.2.2.1.  knowledge sharing; 5.1.2.2.2. cognitive robotics; 5.1.2.2.6. conceptual design; 5.1.2.2.8. knowledge graph; 5.1.3.1.3. video segmentation; 5.1.3.1.6. object recognition; 5.1.3.1.7. object identification; 5.1.3.1.8. tracking; 5.1.3.2.4. hierarchical representations; 5.2.1.2.4. topic modeling; 5.2.1.2.5. source separation; 5.2.1.4.2. lifelong machine learning; 5.2.1.4.3. learning under covariate shift; 5.2.2.1. batch learning; 5.2.2.3. learning from demonstrations; 5.2.2.5. learning from implicit feedback; 5.2.2.6. active learning settings; 5.2.3.9. instance-based learning; 5.2.3.11. partially-observable markov decision processes; 5.2.3.13. learning latent representations; 5.2.3.1.1. parallel implementation; 5.2.3.1.3. model trees; 5.2.3.2.1. kernel support vector machines; 5.2.3.2.4. kernel independent components; 5.2.3.3.1. self organized map; 5.2.3.3.2. training approaches; 5.2.3.3.3. representation; 5.2.3.3.4. evolving nn; 5.2.3.4.1. inductive logic learning; 5.2.3.5.2. maximum entropy modeling; 5.2.3.5.3. maximum a posteriori modeling; 5.2.3.5.5. latent variable models; 5.2.3.5.6. bayesian network models; 5.2.3.6.2. linear discriminant analysis; 5.2.3.7.1. non-negative matrix factorization; 5.2.3.7.4. canonical correlation analysis; 5.2.3.7.6. latent dirichlet allocation; 5.2.3.7.8. independent component analysis; 5.2.3.7.9. nonlinear principal components; 5.2.4.3. spectral methods; 5.2.4.5. regularization; 5.2.4.1.3. policy iteration; 5.2.4.1.4. temporal difference learning; 5.2.4.1.5. approximate dynamic programming methods; 5.2.4.2.2. bagging; 5.2.6.5. transformer nn; 5.2.6.6. generative adversarial networks gan; 5.2.6.2.1. pooling
+1	theory of computation	0.296	1.017	3.608	1.1.1.5. boosting; 1.1.1.6. bayesian analysis; 1.1.1.7. inductive inference; 1.1.1.8. online learning theory; 1.1.1.9. multi-agent learning; 1.1.1.10. models of learning; 1.1.1.11. query learning; 1.1.1.16. markov decision processes; 1.1.1.17. regret bounds; 1.1.1.4.3. modelling; 1.1.1.13.1. sequential decision making; 1.1.1.13.3. apprenticeship learning; 1.1.1.13.5. adversarial learning; 1.1.2.1. data exchange; 1.1.2.3. data modeling; 1.1.2.5. database constraints theory; 1.1.2.6. database interoperability; 1.1.2.10. logic and databases; 1.1.2.11. theory of database privacy and security	1. theory of computation	1.1.1.5. boosting; 1.1.1.6. bayesian analysis; 1.1.1.7. inductive inference; 1.1.1.8. online learning theory; 1.1.1.9. multi-agent learning; 1.1.1.10. models of learning; 1.1.1.11. query learning; 1.1.1.16. markov decision processes; 1.1.1.17. regret bounds; 1.1.1.4.3. modelling; 1.1.1.13.1. sequential decision making; 1.1.1.13.3. apprenticeship learning; 1.1.1.13.5. adversarial learning; 1.1.2.1. data exchange; 1.1.2.3. data modeling; 1.1.2.5. database constraints theory; 1.1.2.6. database interoperability; 1.1.2.10. logic and databases; 1.1.2.11. theory of database privacy and security
+1.1.1	machine learning theory	0.234	0.738	2.522	1.1.1.5. boosting; 1.1.1.6. bayesian analysis; 1.1.1.7. inductive inference; 1.1.1.8. online learning theory; 1.1.1.9. multi-agent learning; 1.1.1.10. models of learning; 1.1.1.11. query learning; 1.1.1.16. markov decision processes; 1.1.1.17. regret bounds; 1.1.1.4.3. modelling; 1.1.1.13.1. sequential decision making; 1.1.1.13.3. apprenticeship learning; 1.1.1.13.5. adversarial learning	1.1.1. machine learning theory	1.1.1.5. boosting; 1.1.1.6. bayesian analysis; 1.1.1.7. inductive inference; 1.1.1.8. online learning theory; 1.1.1.9. multi-agent learning; 1.1.1.10. models of learning; 1.1.1.11. query learning; 1.1.1.16. markov decision processes; 1.1.1.17. regret bounds; 1.1.1.4.3. modelling; 1.1.1.13.1. sequential decision making; 1.1.1.13.3. apprenticeship learning; 1.1.1.13.5. adversarial learning
+1.1.1.1	sample complexity and generalization bounds	0.074	0.111	0		1.1.1.1. sample complexity and generalization bounds	
+1.1.1.10	models of learning	0.0	0	0			
+1.1.1.11	query learning	0.0	0	0			
+1.1.1.12	structured prediction	0.074	0.111	0		1.1.1.12. structured prediction	
+1.1.1.13	reinforcement learning	0.105	0.167	0.314	1.1.1.13.1. sequential decision making; 1.1.1.13.3. apprenticeship learning; 1.1.1.13.5. adversarial learning	1.1.1.13. reinforcement learning	1.1.1.13.1. sequential decision making; 1.1.1.13.3. apprenticeship learning; 1.1.1.13.5. adversarial learning
+1.1.1.13.1	sequential decision making	0.0	0	0			
+1.1.1.13.2	inverse reinforcement learning	0.074	0.111	0		1.1.1.13.2. inverse reinforcement learning	
+1.1.1.13.3	apprenticeship learning	0.0	0	0			
+1.1.1.13.4	multi-agent reinforcement learning	0.074	0.111	0		1.1.1.13.4. multi-agent reinforcement learning	
+1.1.1.13.5	adversarial learning	0.0	0	0			
+1.1.1.14	active learning	0.074	0.111	0		1.1.1.14. active learning	
+1.1.1.15	semi-supervised learning	0.074	0.111	0		1.1.1.15. semi-supervised learning	
+1.1.1.16	markov decision processes	0.0	0	0			
+1.1.1.17	regret bounds	0.0	0	0			
+1.1.1.2	boolean function learning	0.074	0.111	0		1.1.1.2. boolean function learning	
+1.1.1.3	unsupervised learning and clustering	0.074	0.111	0		1.1.1.3. unsupervised learning and clustering	
+1.1.1.4	kernel methods	0.105	0.125	0.105	1.1.1.4.3. modelling	1.1.1.4. kernel methods	1.1.1.4.3. modelling
+1.1.1.4.1	support vector machines	0.074	0.111	0		1.1.1.4.1. support vector machines	
+1.1.1.4.2	gaussian processes	0.074	0.111	0		1.1.1.4.2. gaussian processes	
+1.1.1.4.3	modelling	0.0	0	0			
+1.1.1.5	boosting	0.0	0	0			
+1.1.1.6	bayesian analysis	0.0	0	0			
+1.1.1.7	inductive inference	0.0	0	0			
+1.1.1.8	online learning theory	0.0	0	0			
+1.1.1.9	multi-agent learning	0.0	0	0			
+1.1.2	database theory	0.181	0.398	1.086	1.1.2.1. data exchange; 1.1.2.3. data modeling; 1.1.2.5. database constraints theory; 1.1.2.6. database interoperability; 1.1.2.10. logic and databases; 1.1.2.11. theory of database privacy and security	1.1.2. database theory	1.1.2.1. data exchange; 1.1.2.3. data modeling; 1.1.2.5. database constraints theory; 1.1.2.6. database interoperability; 1.1.2.10. logic and databases; 1.1.2.11. theory of database privacy and security
+1.1.2.1	data exchange	0.0	0	0			
+1.1.2.10	logic and databases	0.0	0	0			
+1.1.2.11	theory of database privacy and security	0.0	0	0			
+1.1.2.12	incomplete	0.074	0.111	0		1.1.2.12. incomplete	
+1.1.2.2	data provenance	0.074	0.111	0		1.1.2.2. data provenance	
+1.1.2.3	data modeling	0.0	0	0			
+1.1.2.4	database query languages	0.074	0.111	0		1.1.2.4. database query languages	
+1.1.2.5	database constraints theory	0.0	0	0			
+1.1.2.6	database interoperability	0.0	0	0			
+1.1.2.7	data structures and algorithms for data management	0.074	0.111	0		1.1.2.7. data structures and algorithms for data management	
+1.1.2.8	database query processing and optimization	0.074	0.111	0		1.1.2.8. database query processing and optimization	
+1.1.2.9	data integration	0.074	0.111	0		1.1.2.9. data integration	
+2	mathematics of computing	0.405	0.931	2.632	2.1.1.1. bayesian networks; 2.1.1.2. markov networks; 2.1.1.6. causal networks; 2.1.1.7. stochastic differential equations; 2.1.1.8.3. bayesian nonparametric models; 2.1.2.1. maximum likelihood estimation; 2.1.2.4. hypothesis testing and confidence interval computation; 2.1.3.2. loopy belief propagation; 2.1.3.7. kalman filters and hidden markov models; 2.1.3.9. random number generation; 2.1.3.5.1. gibbs sampling; 2.1.3.5.4. markov-chain monte carlo convergence measures; 2.1.5.3. regression analysis; 2.1.5.6. renewal theory; 2.1.5.7. dimensionality reduction; 2.2.1. tensor decomposition; 2.2.2. tensor factorization	2. mathematics of computing	2.1.1.1. bayesian networks; 2.1.1.2. markov networks; 2.1.1.6. causal networks; 2.1.1.7. stochastic differential equations; 2.1.1.8.3. bayesian nonparametric models; 2.1.2.1. maximum likelihood estimation; 2.1.2.4. hypothesis testing and confidence interval computation; 2.1.3.2. loopy belief propagation; 2.1.3.7. kalman filters and hidden markov models; 2.1.3.9. random number generation; 2.1.3.5.1. gibbs sampling; 2.1.3.5.4. markov-chain monte carlo convergence measures; 2.1.5.3. regression analysis; 2.1.5.6. renewal theory; 2.1.5.7. dimensionality reduction; 2.2.1. tensor decomposition; 2.2.2. tensor factorization
+2.1	probability and statistics	0.398	0.895	2.484	2.1.1.1. bayesian networks; 2.1.1.2. markov networks; 2.1.1.6. causal networks; 2.1.1.7. stochastic differential equations; 2.1.1.8.3. bayesian nonparametric models; 2.1.2.1. maximum likelihood estimation; 2.1.2.4. hypothesis testing and confidence interval computation; 2.1.3.2. loopy belief propagation; 2.1.3.7. kalman filters and hidden markov models; 2.1.3.9. random number generation; 2.1.3.5.1. gibbs sampling; 2.1.3.5.4. markov-chain monte carlo convergence measures; 2.1.5.3. regression analysis; 2.1.5.6. renewal theory; 2.1.5.7. dimensionality reduction	2.1. probability and statistics	2.1.1.1. bayesian networks; 2.1.1.2. markov networks; 2.1.1.6. causal networks; 2.1.1.7. stochastic differential equations; 2.1.1.8.3. bayesian nonparametric models; 2.1.2.1. maximum likelihood estimation; 2.1.2.4. hypothesis testing and confidence interval computation; 2.1.3.2. loopy belief propagation; 2.1.3.7. kalman filters and hidden markov models; 2.1.3.9. random number generation; 2.1.3.5.1. gibbs sampling; 2.1.3.5.4. markov-chain monte carlo convergence measures; 2.1.5.3. regression analysis; 2.1.5.6. renewal theory; 2.1.5.7. dimensionality reduction
+2.1.1	probabilistic representations	0.165	0.318	0.766	2.1.1.1. bayesian networks; 2.1.1.2. markov networks; 2.1.1.6. causal networks; 2.1.1.7. stochastic differential equations; 2.1.1.8.3. bayesian nonparametric models	2.1.1. probabilistic representations	2.1.1.1. bayesian networks; 2.1.1.2. markov networks; 2.1.1.6. causal networks; 2.1.1.7. stochastic differential equations; 2.1.1.8.3. bayesian nonparametric models
+2.1.1.1	bayesian networks	0.0	0	0			
+2.1.1.2	markov networks	0.0	0	0			
+2.1.1.3	factor graphs	0.074	0.111	0		2.1.1.3. factor graphs	
+2.1.1.4	decision diagrams	0.074	0.111	0		2.1.1.4. decision diagrams	
+2.1.1.5	equational models	0.074	0.111	0		2.1.1.5. equational models	
+2.1.1.6	causal networks	0.0	0	0			
+2.1.1.7	stochastic differential equations	0.0	0	0			
+2.1.1.8	nonparametric representations	0.105	0.125	0.105	2.1.1.8.3. bayesian nonparametric models	2.1.1.8. nonparametric representations	2.1.1.8.3. bayesian nonparametric models
+2.1.1.8.1	kernel density estimators	0.074	0.111	0		2.1.1.8.1. kernel density estimators	
+2.1.1.8.2	spline models	0.074	0.111	0		2.1.1.8.2. spline models	
+2.1.1.8.3	bayesian nonparametric models	0.0	0	0			
+2.1.2	probabilistic inference problems	0.148	0.207	0.296	2.1.2.1. maximum likelihood estimation; 2.1.2.4. hypothesis testing and confidence interval computation	2.1.2. probabilistic inference problems	2.1.2.1. maximum likelihood estimation; 2.1.2.4. hypothesis testing and confidence interval computation
+2.1.2.1	maximum likelihood estimation	0.0	0	0			
+2.1.2.2	bayesian computation	0.074	0.111	0		2.1.2.2. bayesian computation	
+2.1.2.3	computing most probable explanation	0.074	0.111	0		2.1.2.3. computing most probable explanation	
+2.1.2.4	hypothesis testing and confidence interval computation	0.0	0	0			
+2.1.2.5	density estimation	0.074	0.111	0		2.1.2.5. density estimation	
+2.1.2.6	max marginal computation	0.074	0.111	0		2.1.2.6. max marginal computation	
+2.1.3	probabilistic reasoning algorithms	0.209	0.376	0.836	2.1.3.2. loopy belief propagation; 2.1.3.7. kalman filters and hidden markov models; 2.1.3.9. random number generation; 2.1.3.5.1. gibbs sampling; 2.1.3.5.4. markov-chain monte carlo convergence measures	2.1.3. probabilistic reasoning algorithms	2.1.3.2. loopy belief propagation; 2.1.3.7. kalman filters and hidden markov models; 2.1.3.9. random number generation; 2.1.3.5.1. gibbs sampling; 2.1.3.5.4. markov-chain monte carlo convergence measures
+2.1.3.1	variable elimination	0.074	0.111	0		2.1.3.1. variable elimination	
+2.1.3.2	loopy belief propagation	0.0	0	0			
+2.1.3.3	variational methods	0.074	0.111	0		2.1.3.3. variational methods	
+2.1.3.4	expectation maximization	0.074	0.111	0		2.1.3.4. expectation maximization	
+2.1.3.5	markov-chain monte carlo methods	0.105	0.146	0.209	2.1.3.5.1. gibbs sampling; 2.1.3.5.4. markov-chain monte carlo convergence measures	2.1.3.5. markov-chain monte carlo methods	2.1.3.5.1. gibbs sampling; 2.1.3.5.4. markov-chain monte carlo convergence measures
+2.1.3.5.1	gibbs sampling	0.0	0	0			
+2.1.3.5.2	metropolis-hastings algorithm	0.074	0.111	0		2.1.3.5.2. metropolis-hastings algorithm	
+2.1.3.5.3	simulated annealing	0.074	0.111	0		2.1.3.5.3. simulated annealing	
+2.1.3.5.4	markov-chain monte carlo convergence measures	0.0	0	0			
+2.1.3.6	sequential monte carlo methods	0.074	0.111	0		2.1.3.6. sequential monte carlo methods	
+2.1.3.7	kalman filters and hidden markov models	0.0	0	0.209	2.1.3.7. kalman filters and hidden markov models		
+2.1.3.8	resampling methods	0.105	0.105	0		2.1.3.8. resampling methods	
+2.1.3.8.1	bootstrapping	0.074	0.111	0		2.1.3.8.1. bootstrapping	
+2.1.3.8.2	jackknifing	0.074	0.111	0		2.1.3.8.2. jackknifing	
+2.1.3.9	random number generation	0.0	0	0			
+2.1.4	probabilistic algorithms	0.074	0.111	0		2.1.4. probabilistic algorithms	
+2.1.5	statistical paradigms	0.196	0.313	0.587	2.1.5.3. regression analysis; 2.1.5.6. renewal theory; 2.1.5.7. dimensionality reduction	2.1.5. statistical paradigms	2.1.5.3. regression analysis; 2.1.5.6. renewal theory; 2.1.5.7. dimensionality reduction
+2.1.5.1	queueing theory	0.074	0.111	0		2.1.5.1. queueing theory	
+2.1.5.10	exploratory data analysis	0.074	0.111	0		2.1.5.10. exploratory data analysis	
+2.1.5.2	contingency table analysis	0.074	0.111	0		2.1.5.2. contingency table analysis	
+2.1.5.3	regression analysis	0.0	0	0.196	2.1.5.3. regression analysis		
+2.1.5.4	time series analysis	0.074	0.111	0		2.1.5.4. time series analysis	
+2.1.5.5	survival analysis	0.074	0.111	0		2.1.5.5. survival analysis	
+2.1.5.6	renewal theory	0.0	0	0			
+2.1.5.7	dimensionality reduction	0.0	0	0			
+2.1.5.8	cluster analysis	0.074	0.111	0		2.1.5.8. cluster analysis	
+2.1.5.9	statistical graphics	0.074	0.111	0		2.1.5.9. statistical graphics	
+2.1.6	stochastic processes	0.074	0.111	0		2.1.6. stochastic processes	
+2.1.7	nonparametric statistics	0.074	0.111	0		2.1.7. nonparametric statistics	
+2.1.8	distribution functions	0.074	0.111	0		2.1.8. distribution functions	
+2.1.9	multivariate statistics	0.074	0.111	0		2.1.9. multivariate statistics	
+2.2	multiway data analysis	0.074	0.103	0.148	2.2.1. tensor decomposition; 2.2.2. tensor factorization	2.2. multiway data analysis	2.2.1. tensor decomposition; 2.2.2. tensor factorization
+2.2.1	tensor decomposition	0.0	0	0			
+2.2.2	tensor factorization	0.0	0	0			
+2.2.3	sparse tensor	0.074	0.111	0		2.2.3. sparse tensor	
+3	information systems	0.605	2.659	10.272	3.1.1.2. entity relationship models; 3.1.1.4. physical data models; 3.1.1.3.1. hierarchical data models; 3.1.1.5.1. semi-structured data; 3.1.1.5.2. data streams; 3.1.1.5.5. temporal data; 3.1.1.5.6. uncertainty; 3.1.1.5.7. inconsistent data; 3.1.2.2. data layout; 3.1.2.1.1. multidimensional range search; 3.1.2.1.2. data scans; 3.1.2.1.5. proximity search; 3.1.3.4. record and buffer management; 3.1.3.5. parallel and distributed dbmss; 3.1.3.6. triggers and rules; 3.1.3.7. database views; 3.1.3.8. integrity checking; 3.1.3.10. main memory engines; 3.1.3.2.1. query optimization; 3.1.3.2.2. query operators; 3.1.3.2.3. query planning; 3.1.3.3.2. transaction logging; 3.1.3.9.2. deadlocks; 3.1.3.13.2. hadoop; 3.1.4.1. relational database query languages; 3.1.4.4. call level interfaces; 3.1.4.2.1 xpath; 3.1.5.1. deduplication; 3.1.5.3. data exchange; 3.1.5.5. wrappers; 3.1.5.8. data warehouses; 3.1.5.10. quality of the data; 3.1.5.11. validation of data; 3.2.1.8. process mining; 3.2.1.11. text mining; 3.2.1.10. data mining tools; 3.2.1.12. formal concept analysis; 3.2.1.3.2. interestingness; 3.2.1.3.3. parallel computation; 3.2.1.4.1. massive data clustering; 3.2.1.4.3. fuzzy clustering; 3.2.1.4.5. feature weight clustering; 3.2.1.4.6. conceptual clustering; 3.2.1.4.7. biclustering; 3.2.1.7.4. anomaly detection; 3.2.1.7.5. critical nodes detection; 3.2.1.9.3. market graph; 3.3.1.6. knowledge discovery; 3.3.1.3.2. surfacing; 3.4.1.1. document structure; 3.4.1.3. content analysis and feature selection; 3.4.1.6. ontologies; 3.4.1.7. dictionaries; 3.4.2.1. query representation; 3.4.2.2. query intent; 3.4.2.4. query suggestion; 3.4.3.1. personalization; 3.4.3.2. task models; 3.4.3.4. collaborative search; 3.4.4.4. similarity measures; 3.4.4.7. information retrieval diversity; 3.4.4.8. top-k retrieval in databases; 3.4.5.2. document filtering; 3.4.5.4. information extraction; 3.4.5.6. expert search; 3.4.5.8. clustering and classification; 3.4.5.9. summarization; 3.4.5.10. business intelligence; 3.4.6.3. retrieval effectiveness; 3.4.6.4. retrieval efficiency; 3.4.7.3. environment-specific retrieval; 3.4.7.1.1. structured text search; 3.4.7.1.2. mathematics retrieval; 3.4.7.2.1. image search; 3.5.2. smart city	3. information systems	3.1.1.2. entity relationship models; 3.1.1.4. physical data models; 3.1.1.3.1. hierarchical data models; 3.1.1.5.1. semi-structured data; 3.1.1.5.2. data streams; 3.1.1.5.5. temporal data; 3.1.1.5.6. uncertainty; 3.1.1.5.7. inconsistent data; 3.1.2.2. data layout; 3.1.2.1.1. multidimensional range search; 3.1.2.1.2. data scans; 3.1.2.1.5. proximity search; 3.1.3.4. record and buffer management; 3.1.3.5. parallel and distributed dbmss; 3.1.3.6. triggers and rules; 3.1.3.7. database views; 3.1.3.8. integrity checking; 3.1.3.10. main memory engines; 3.1.3.2.1. query optimization; 3.1.3.2.2. query operators; 3.1.3.2.3. query planning; 3.1.3.3.2. transaction logging; 3.1.3.9.2. deadlocks; 3.1.3.13.2. hadoop; 3.1.4.1. relational database query languages; 3.1.4.4. call level interfaces; 3.1.4.2.1 xpath; 3.1.5.1. deduplication; 3.1.5.3. data exchange; 3.1.5.5. wrappers; 3.1.5.8. data warehouses; 3.1.5.10. quality of the data; 3.1.5.11. validation of data; 3.2.1.8. process mining; 3.2.1.11. text mining; 3.2.1.10. data mining tools; 3.2.1.12. formal concept analysis; 3.2.1.3.2. interestingness; 3.2.1.3.3. parallel computation; 3.2.1.4.1. massive data clustering; 3.2.1.4.3. fuzzy clustering; 3.2.1.4.5. feature weight clustering; 3.2.1.4.6. conceptual clustering; 3.2.1.4.7. biclustering; 3.2.1.7.4. anomaly detection; 3.2.1.7.5. critical nodes detection; 3.2.1.9.3. market graph; 3.3.1.6. knowledge discovery; 3.3.1.3.2. surfacing; 3.4.1.1. document structure; 3.4.1.3. content analysis and feature selection; 3.4.1.6. ontologies; 3.4.1.7. dictionaries; 3.4.2.1. query representation; 3.4.2.2. query intent; 3.4.2.4. query suggestion; 3.4.3.1. personalization; 3.4.3.2. task models; 3.4.3.4. collaborative search; 3.4.4.4. similarity measures; 3.4.4.7. information retrieval diversity; 3.4.4.8. top-k retrieval in databases; 3.4.5.2. document filtering; 3.4.5.4. information extraction; 3.4.5.6. expert search; 3.4.5.8. clustering and classification; 3.4.5.9. summarization; 3.4.5.10. business intelligence; 3.4.6.3. retrieval effectiveness; 3.4.6.4. retrieval efficiency; 3.4.7.3. environment-specific retrieval; 3.4.7.1.1. structured text search; 3.4.7.1.2. mathematics retrieval; 3.4.7.2.1. image search; 3.5.2. smart city
+3.1	data management systems	0.355	1.258	4.515	3.1.1.2. entity relationship models; 3.1.1.4. physical data models; 3.1.1.3.1. hierarchical data models; 3.1.1.5.1. semi-structured data; 3.1.1.5.2. data streams; 3.1.1.5.5. temporal data; 3.1.1.5.6. uncertainty; 3.1.1.5.7. inconsistent data; 3.1.2.2. data layout; 3.1.2.1.1. multidimensional range search; 3.1.2.1.2. data scans; 3.1.2.1.5. proximity search; 3.1.3.4. record and buffer management; 3.1.3.5. parallel and distributed dbmss; 3.1.3.6. triggers and rules; 3.1.3.7. database views; 3.1.3.8. integrity checking; 3.1.3.10. main memory engines; 3.1.3.2.1. query optimization; 3.1.3.2.2. query operators; 3.1.3.2.3. query planning; 3.1.3.3.2. transaction logging; 3.1.3.9.2. deadlocks; 3.1.3.13.2. hadoop; 3.1.4.1. relational database query languages; 3.1.4.4. call level interfaces; 3.1.4.2.1 xpath; 3.1.5.1. deduplication; 3.1.5.3. data exchange; 3.1.5.5. wrappers; 3.1.5.8. data warehouses; 3.1.5.10. quality of the data; 3.1.5.11. validation of data	3.1. data management systems	3.1.1.2. entity relationship models; 3.1.1.4. physical data models; 3.1.1.3.1. hierarchical data models; 3.1.1.5.1. semi-structured data; 3.1.1.5.2. data streams; 3.1.1.5.5. temporal data; 3.1.1.5.6. uncertainty; 3.1.1.5.7. inconsistent data; 3.1.2.2. data layout; 3.1.2.1.1. multidimensional range search; 3.1.2.1.2. data scans; 3.1.2.1.5. proximity search; 3.1.3.4. record and buffer management; 3.1.3.5. parallel and distributed dbmss; 3.1.3.6. triggers and rules; 3.1.3.7. database views; 3.1.3.8. integrity checking; 3.1.3.10. main memory engines; 3.1.3.2.1. query optimization; 3.1.3.2.2. query operators; 3.1.3.2.3. query planning; 3.1.3.3.2. transaction logging; 3.1.3.9.2. deadlocks; 3.1.3.13.2. hadoop; 3.1.4.1. relational database query languages; 3.1.4.4. call level interfaces; 3.1.4.2.1 xpath; 3.1.5.1. deduplication; 3.1.5.3. data exchange; 3.1.5.5. wrappers; 3.1.5.8. data warehouses; 3.1.5.10. quality of the data; 3.1.5.11. validation of data
+3.1.1	database design and models	0.148	0.326	0.892	3.1.1.2. entity relationship models; 3.1.1.4. physical data models; 3.1.1.3.1. hierarchical data models; 3.1.1.5.1. semi-structured data; 3.1.1.5.2. data streams; 3.1.1.5.5. temporal data; 3.1.1.5.6. uncertainty; 3.1.1.5.7. inconsistent data	3.1.1. database design and models	3.1.1.2. entity relationship models; 3.1.1.4. physical data models; 3.1.1.3.1. hierarchical data models; 3.1.1.5.1. semi-structured data; 3.1.1.5.2. data streams; 3.1.1.5.5. temporal data; 3.1.1.5.6. uncertainty; 3.1.1.5.7. inconsistent data
+3.1.1.1	relational database model	0.074	0.111	0		3.1.1.1. relational database model	
+3.1.1.2	entity relationship models	0.0	0	0			
+3.1.1.3	graph-based database models	0.074	0.089	0.074	3.1.1.3.1. hierarchical data models	3.1.1.3. graph-based database models	3.1.1.3.1. hierarchical data models
+3.1.1.3.1	hierarchical data models	0.0	0	0			
+3.1.1.3.2	network data models	0.074	0.111	0		3.1.1.3.2. network data models	
+3.1.1.4	physical data models	0.0	0	0			
+3.1.1.5	data model extensions	0.105	0.209	0.523	3.1.1.5.1. semi-structured data; 3.1.1.5.2. data streams; 3.1.1.5.5. temporal data; 3.1.1.5.6. uncertainty; 3.1.1.5.7. inconsistent data	3.1.1.5. data model extensions	3.1.1.5.1. semi-structured data; 3.1.1.5.2. data streams; 3.1.1.5.5. temporal data; 3.1.1.5.6. uncertainty; 3.1.1.5.7. inconsistent data
+3.1.1.5.1	semi-structured data	0.0	0	0			
+3.1.1.5.2	data streams	0.0	0	0			
+3.1.1.5.3	data provenance	0.074	0.111	0		3.1.1.5.3. data provenance	
+3.1.1.5.4	incomplete data	0.074	0.111	0		3.1.1.5.4. incomplete data	
+3.1.1.5.5	temporal data	0.0	0	0			
+3.1.1.5.6	uncertainty	0.0	0	0			
+3.1.1.5.7	inconsistent data	0.0	0	0			
+3.1.2	data structures	0.105	0.167	0.418	3.1.2.2. data layout; 3.1.2.1.1. multidimensional range search; 3.1.2.1.2. data scans; 3.1.2.1.5. proximity search	3.1.2.1. data access methods	3.1.2.1.1. multidimensional range search; 3.1.2.1.2. data scans; 3.1.2.1.5. proximity search
+3.1.2.1	data access methods	0.105	0.167	0.314	3.1.2.1.1. multidimensional range search; 3.1.2.1.2. data scans; 3.1.2.1.5. proximity search	3.1.2.1. data access methods	3.1.2.1.1. multidimensional range search; 3.1.2.1.2. data scans; 3.1.2.1.5. proximity search
+3.1.2.1.1	multidimensional range search	0.0	0	0			
+3.1.2.1.2	data scans	0.0	0	0			
+3.1.2.1.3	point lookups	0.074	0.111	0		3.1.2.1.3. point lookups	
+3.1.2.1.4	unidimensional range search	0.074	0.111	0		3.1.2.1.4. unidimensional range search	
+3.1.2.1.5	proximity search	0.0	0	0			
+3.1.2.2	data layout	0.0	0	0.105	3.1.2.2. data layout		
+3.1.3	database management system engines	0.222	0.589	1.835	3.1.3.4. record and buffer management; 3.1.3.5. parallel and distributed dbmss; 3.1.3.6. triggers and rules; 3.1.3.7. database views; 3.1.3.8. integrity checking; 3.1.3.10. main memory engines; 3.1.3.2.1. query optimization; 3.1.3.2.2. query operators; 3.1.3.2.3. query planning; 3.1.3.3.2. transaction logging; 3.1.3.9.2. deadlocks; 3.1.3.13.2. hadoop	3.1.3. database management system engines	3.1.3.4. record and buffer management; 3.1.3.5. parallel and distributed dbmss; 3.1.3.6. triggers and rules; 3.1.3.7. database views; 3.1.3.8. integrity checking; 3.1.3.10. main memory engines; 3.1.3.2.1. query optimization; 3.1.3.2.2. query operators; 3.1.3.2.3. query planning; 3.1.3.3.2. transaction logging; 3.1.3.9.2. deadlocks; 3.1.3.13.2. hadoop
+3.1.3.1	dbms engine architectures	0.074	0.111	0		3.1.3.1. dbms engine architectures	
+3.1.3.10	main memory engines	0.0	0	0			
+3.1.3.11	online analytical processing engines	0.074	0.111	0		3.1.3.11. online analytical processing engines	
+3.1.3.12	stream management	0.074	0.111	0		3.1.3.12. stream management	
+3.1.3.13	big data	0.074	0.089	0.074	3.1.3.13.2. hadoop	3.1.3.13. big data	3.1.3.13.2. hadoop
+3.1.3.13.1	mapreduce	0.074	0.111	0		3.1.3.13.1. mapreduce	
+3.1.3.13.2	hadoop	0.0	0	0			
+3.1.3.2	database query processing	0.074	0.111	0.222	3.1.3.2.1. query optimization; 3.1.3.2.2. query operators; 3.1.3.2.3. query planning	3.1.3.2.4. join algorithms	
+3.1.3.2.1	query optimization	0.0	0	0			
+3.1.3.2.2	query operators	0.0	0	0			
+3.1.3.2.3	query planning	0.0	0	0			
+3.1.3.2.4	join algorithms	0.074	0.111	0		3.1.3.2.4. join algorithms	
+3.1.3.3	database transaction processing	0.105	0.125	0.105	3.1.3.3.2. transaction logging	3.1.3.3. database transaction processing	3.1.3.3.2. transaction logging
+3.1.3.3.1	data locking	0.074	0.111	0		3.1.3.3.1. data locking	
+3.1.3.3.2	transaction logging	0.0	0	0			
+3.1.3.3.3	database recovery	0.074	0.111	0		3.1.3.3.3. database recovery	
+3.1.3.4	record and buffer management	0.0	0	0			
+3.1.3.5	parallel and distributed dbmss	0.0	0	0.222	3.1.3.5. parallel and distributed dbmss		
+3.1.3.6	triggers and rules	0.0	0	0			
+3.1.3.7	database views	0.0	0	0			
+3.1.3.8	integrity checking	0.0	0	0			
+3.1.3.9	distributed database transactions	0.105	0.125	0.105	3.1.3.9.2. deadlocks	3.1.3.9. distributed database transactions	3.1.3.9.2. deadlocks
+3.1.3.9.1	distributed data locking	0.074	0.111	0		3.1.3.9.1. distributed data locking	
+3.1.3.9.2	deadlocks	0.0	0	0			
+3.1.3.9.3	distributed database recovery	0.074	0.111	0		3.1.3.9.3. distributed database recovery	
+3.1.4	query languages	0.105	0.161	0.283	3.1.4.1. relational database query languages; 3.1.4.4. call level interfaces; 3.1.4.2.1 xpath	3.1.4. query languages	3.1.4.1. relational database query languages; 3.1.4.4. call level interfaces; 3.1.4.2.1 xpath
+3.1.4.1	relational database query languages	0.0	0	0.105	3.1.4.1. relational database query languages		
+3.1.4.2	xml query languages	0.074	0.089	0.074	3.1.4.2.1 xpath	3.1.4.2. xml query languages	3.1.4.2.1 xpath
+3.1.4.2.1	xpath	0.0	0	0			
+3.1.4.2.2	xquery	0.074	0.111	0		3.1.4.2.2. xquery	
+3.1.4.3	query languages for non-relational engines	0.074	0.111	0		3.1.4.3. query languages for non-relational engines	
+3.1.4.4	call level interfaces	0.0	0	0			
+3.1.5	information integration	0.181	0.398	1.086	3.1.5.1. deduplication; 3.1.5.3. data exchange; 3.1.5.5. wrappers; 3.1.5.8. data warehouses; 3.1.5.10. quality of the data; 3.1.5.11. validation of data	3.1.5. information integration	3.1.5.1. deduplication; 3.1.5.3. data exchange; 3.1.5.5. wrappers; 3.1.5.8. data warehouses; 3.1.5.10. quality of the data; 3.1.5.11. validation of data
+3.1.5.1	deduplication	0.0	0	0			
+3.1.5.10	quality of the data	0.0	0	0			
+3.1.5.11	validation of data	0.0	0	0			
+3.1.5.12	automatic data extraction	0.074	0.111	0		3.1.5.12. automatic data extraction	
+3.1.5.2	extraction transformation and loading	0.074	0.111	0		3.1.5.2. extraction transformation and loading	
+3.1.5.3	data exchange	0.0	0	0			
+3.1.5.4	data cleaning	0.074	0.111	0		3.1.5.4. data cleaning	
+3.1.5.5	wrappers	0.0	0	0			
+3.1.5.6	mediators and data integration	0.074	0.111	0		3.1.5.6. mediators and data integration	
+3.1.5.7	entity resolution	0.074	0.111	0		3.1.5.7. entity resolution	
+3.1.5.8	data warehouses	0.0	0	0			
+3.1.5.9	federated databases	0.074	0.111	0		3.1.5.9. federated databases	
+3.2	information systems applications	0.267	0.686	2.097	3.2.1.8. process mining; 3.2.1.11. text mining; 3.2.1.10. data mining tools; 3.2.1.12. formal concept analysis; 3.2.1.3.2. interestingness; 3.2.1.3.3. parallel computation; 3.2.1.4.1. massive data clustering; 3.2.1.4.3. fuzzy clustering; 3.2.1.4.5. feature weight clustering; 3.2.1.4.6. conceptual clustering; 3.2.1.4.7. biclustering; 3.2.1.7.4. anomaly detection; 3.2.1.7.5. critical nodes detection; 3.2.1.9.3. market graph	3.2. information systems applications	3.2.1.8. process mining; 3.2.1.11. text mining; 3.2.1.10. data mining tools; 3.2.1.12. formal concept analysis; 3.2.1.3.2. interestingness; 3.2.1.3.3. parallel computation; 3.2.1.4.1. massive data clustering; 3.2.1.4.3. fuzzy clustering; 3.2.1.4.5. feature weight clustering; 3.2.1.4.6. conceptual clustering; 3.2.1.4.7. biclustering; 3.2.1.7.4. anomaly detection; 3.2.1.7.5. critical nodes detection; 3.2.1.9.3. market graph
+3.2.1.1	data cleaning	0.074	0.111	0		3.2.1.1. data cleaning	
+3.2.1.10	data mining tools	0.0	0	0			
+3.2.1.11	text mining	0.0	0	0.267	3.2.1.11. text mining		
+3.2.1.12	formal concept analysis	0.0	0	0			
+3.2.1.2	collaborative filtering	0.105	0.105	0		3.2.1.2. collaborative filtering	
+3.2.1.2.1	item-based	0.074	0.111	0		3.2.1.2.1. item-based	
+3.2.1.2.2	scalable	0.074	0.111	0		3.2.1.2.2. scalable	
+3.2.1.3	association rules	0.074	0.103	0.148	3.2.1.3.2. interestingness; 3.2.1.3.3. parallel computation	3.2.1.3. association rules	3.2.1.3.2. interestingness; 3.2.1.3.3. parallel computation
+3.2.1.3.1	types of association rules	0.074	0.111	0		3.2.1.3.1. types of association rules	
+3.2.1.3.2	interestingness	0.0	0	0			
+3.2.1.3.3	parallel computation	0.0	0	0			
+3.2.1.4	clustering	0.105	0.209	0.523	3.2.1.4.1. massive data clustering; 3.2.1.4.3. fuzzy clustering; 3.2.1.4.5. feature weight clustering; 3.2.1.4.6. conceptual clustering; 3.2.1.4.7. biclustering	3.2.1.4. clustering	3.2.1.4.1. massive data clustering; 3.2.1.4.3. fuzzy clustering; 3.2.1.4.5. feature weight clustering; 3.2.1.4.6. conceptual clustering; 3.2.1.4.7. biclustering
+3.2.1.4.1	massive data clustering	0.0	0	0			
+3.2.1.4.2	consensus clustering	0.074	0.111	0		3.2.1.4.2. consensus clustering	
+3.2.1.4.3	fuzzy clustering	0.0	0	0			
+3.2.1.4.4	additive clustering	0.074	0.111	0		3.2.1.4.4. additive clustering	
+3.2.1.4.5	feature weight clustering	0.0	0	0			
+3.2.1.4.6	conceptual clustering	0.0	0	0			
+3.2.1.4.7	biclustering	0.0	0	0			
+3.2.1.5	nearest-neighbor search	0.074	0.111	0		3.2.1.5. nearest-neighbor search	
+3.2.1.6	data stream mining	0.074	0.111	0		3.2.1.6. data stream mining	
+3.2.1.7	graph mining	0.128	0.179	0.256	3.2.1.7.4. anomaly detection; 3.2.1.7.5. critical nodes detection	3.2.1.7. graph mining	3.2.1.7.4. anomaly detection; 3.2.1.7.5. critical nodes detection
+3.2.1.7.1	graph partitioning	0.074	0.111	0		3.2.1.7.1. graph partitioning	
+3.2.1.7.2	frequent graph mining	0.074	0.111	0		3.2.1.7.2. frequent graph mining	
+3.2.1.7.3	graph based conceptual clustering	0.074	0.111	0		3.2.1.7.3. graph based conceptual clustering	
+3.2.1.7.4	anomaly detection	0.0	0	0			
+3.2.1.7.5	critical nodes detection	0.0	0	0			
+3.2.1.8	process mining	0.0	0	0			
+3.2.1.9	sequence mining	0.105	0.125	0.105	3.2.1.9.3. market graph	3.2.1.9. sequence mining	3.2.1.9.3. market graph
+3.2.1.9.1	rule and pattern discovery	0.074	0.111	0		3.2.1.9.1. rule and pattern discovery	
+3.2.1.9.2	trajectory clustering	0.074	0.111	0		3.2.1.9.2. trajectory clustering	
+3.2.1.9.3	market graph	0.0	0	0			
+3.3	world wide web	0.165	0.219	0.27	3.3.1.6. knowledge discovery; 3.3.1.3.2. surfacing	3.3. world wide web	3.3.1.6. knowledge discovery; 3.3.1.3.2. surfacing
+3.3.1.2	site wrapping	0.074	0.111	0		3.3.1.2. site wrapping	
+3.3.1.3	data extraction and integration	0.105	0.125	0.105	3.3.1.3.2. surfacing	3.3.1.3. data extraction and integration	3.3.1.3.2. surfacing
+3.3.1.3.1	deep web	0.074	0.111	0		3.3.1.3.1 deep web	
+3.3.1.3.2	surfacing	0.0	0	0			
+3.3.1.3.3	search results deduplication	0.074	0.111	0		3.3.1.3.3. search results deduplication	
+3.3.1.4	web log analysis	0.074	0.111	0		3.3.1.4. web log analysis	
+3.3.1.5	traffic analysis	0.074	0.111	0		3.3.1.5. traffic analysis	
+3.3.1.6	knowledge discovery	0.0	0	0			
+3.4	information retrieval	0.37	1.033	3.316	3.4.1.1. document structure; 3.4.1.3. content analysis and feature selection; 3.4.1.6. ontologies; 3.4.1.7. dictionaries; 3.4.2.1. query representation; 3.4.2.2. query intent; 3.4.2.4. query suggestion; 3.4.3.1. personalization; 3.4.3.2. task models; 3.4.3.4. collaborative search; 3.4.4.4. similarity measures; 3.4.4.7. information retrieval diversity; 3.4.4.8. top-k retrieval in databases; 3.4.5.2. document filtering; 3.4.5.4. information extraction; 3.4.5.6. expert search; 3.4.5.8. clustering and classification; 3.4.5.9. summarization; 3.4.5.10. business intelligence; 3.4.6.3. retrieval effectiveness; 3.4.6.4. retrieval efficiency; 3.4.7.3. environment-specific retrieval; 3.4.7.1.1. structured text search; 3.4.7.1.2. mathematics retrieval; 3.4.7.2.1. image search	3.4. information retrieval	3.4.1.1. document structure; 3.4.1.3. content analysis and feature selection; 3.4.1.6. ontologies; 3.4.1.7. dictionaries; 3.4.2.1. query representation; 3.4.2.2. query intent; 3.4.2.4. query suggestion; 3.4.3.1. personalization; 3.4.3.2. task models; 3.4.3.4. collaborative search; 3.4.4.4. similarity measures; 3.4.4.7. information retrieval diversity; 3.4.4.8. top-k retrieval in databases; 3.4.5.2. document filtering; 3.4.5.4. information extraction; 3.4.5.6. expert search; 3.4.5.8. clustering and classification; 3.4.5.9. summarization; 3.4.5.10. business intelligence; 3.4.6.3. retrieval effectiveness; 3.4.6.4. retrieval efficiency; 3.4.7.3. environment-specific retrieval; 3.4.7.1.1. structured text search; 3.4.7.1.2. mathematics retrieval; 3.4.7.2.1. image search
+3.4.1	document representation	0.148	0.266	0.591	3.4.1.1. document structure; 3.4.1.3. content analysis and feature selection; 3.4.1.6. ontologies; 3.4.1.7. dictionaries	3.4.1. document representation	3.4.1.1. document structure; 3.4.1.3. content analysis and feature selection; 3.4.1.6. ontologies; 3.4.1.7. dictionaries
+3.4.1.1	document structure	0.0	0	0			
+3.4.1.2	document topic models	0.074	0.111	0		3.4.1.2. document topic models	
+3.4.1.3	content analysis and feature selection	0.0	0	0			
+3.4.1.4	data encoding and canonicalization	0.074	0.111	0		3.4.1.4. data encoding and canonicalization	
+3.4.1.5	document collection models	0.074	0.111	0		3.4.1.5. document collection models	
+3.4.1.6	ontologies	0.0	0	0			
+3.4.1.7	dictionaries	0.0	0	0			
+3.4.1.8	thesauri	0.074	0.111	0		3.4.1.8. thesauri	
+3.4.2	information retrieval query processing	0.105	0.167	0.314	3.4.2.1. query representation; 3.4.2.2. query intent; 3.4.2.4. query suggestion	3.4.2. information retrieval query processing	3.4.2.1. query representation; 3.4.2.2. query intent; 3.4.2.4. query suggestion
+3.4.2.1	query representation	0.0	0	0			
+3.4.2.2	query intent	0.0	0	0			
+3.4.2.3	query log analysis	0.074	0.111	0		3.4.2.3. query log analysis	
+3.4.2.4	query suggestion	0.0	0	0			
+3.4.2.5	query reformulation	0.074	0.111	0		3.4.2.5. query reformulation	
+3.4.3	users and interactive retrieval	0.074	0.111	0.222	3.4.3.1. personalization; 3.4.3.2. task models; 3.4.3.4. collaborative search	3.4.3.3. search interfaces	
+3.4.3.1	personalization	0.0	0	0			
+3.4.3.2	task models	0.0	0	0			
+3.4.3.3	search interfaces	0.074	0.111	0		3.4.3.3. search interfaces	
+3.4.3.4	collaborative search	0.0	0	0			
+3.4.4	retrieval models and ranking	0.181	0.29	0.543	3.4.4.4. similarity measures; 3.4.4.7. information retrieval diversity; 3.4.4.8. top-k retrieval in databases	3.4.4. retrieval models and ranking	3.4.4.4. similarity measures; 3.4.4.7. information retrieval diversity; 3.4.4.8. top-k retrieval in databases
+3.4.4.1	rank aggregation	0.074	0.111	0		3.4.4.1. rank aggregation	
+3.4.4.2	probabilistic retrieval models	0.074	0.111	0		3.4.4.2. probabilistic retrieval models	
+3.4.4.3	language models	0.074	0.111	0		3.4.4.3. language models	
+3.4.4.4	similarity measures	0.0	0	0			
+3.4.4.5	learning to rank	0.074	0.111	0		3.4.4.5. learning to rank	
+3.4.4.6	combination fusion and federated search	0.074	0.111	0		3.4.4.6. combination fusion and federated search	
+3.4.4.7	information retrieval diversity	0.0	0	0			
+3.4.4.8	top-k retrieval in databases	0.0	0	0			
+3.4.4.9	novelty in information retrieval	0.074	0.111	0		3.4.4.9. novelty in information retrieval	
+3.4.5	retrieval tasks and goals	0.148	0.325	0.887	3.4.5.2. document filtering; 3.4.5.4. information extraction; 3.4.5.6. expert search; 3.4.5.8. clustering and classification; 3.4.5.9. summarization; 3.4.5.10. business intelligence	3.4.5. retrieval tasks and goals	3.4.5.2. document filtering; 3.4.5.4. information extraction; 3.4.5.6. expert search; 3.4.5.8. clustering and classification; 3.4.5.9. summarization; 3.4.5.10. business intelligence
+3.4.5.1	question answering	0.074	0.111	0		3.4.5.1. question answering	
+3.4.5.10	business intelligence	0.0	0	0			
+3.4.5.2	document filtering	0.0	0	0			
+3.4.5.3	recommender systems	0.074	0.111	0		3.4.5.3. recommender systems	
+3.4.5.4	information extraction	0.0	0	0			
+3.4.5.5	sentiment analysis	0.074	0.111	0		3.4.5.5. sentiment analysis	
+3.4.5.6	expert search	0.0	0	0			
+3.4.5.7	near-duplicate and plagiarism detection	0.074	0.111	0		3.4.5.7. near-duplicate and plagiarism detection	
+3.4.5.8	clustering and classification	0.0	0	0			
+3.4.5.9	summarization	0.0	0	0			
+3.4.6	evaluation of retrieval results	0.128	0.179	0.256	3.4.6.3. retrieval effectiveness; 3.4.6.4. retrieval efficiency	3.4.6. evaluation of retrieval results	3.4.6.3. retrieval effectiveness; 3.4.6.4. retrieval efficiency
+3.4.6.1	test collections	0.074	0.111	0		3.4.6.1. test collections	
+3.4.6.2	relevance assessment	0.074	0.111	0		3.4.6.2. relevance assessment	
+3.4.6.3	retrieval effectiveness	0.0	0	0			
+3.4.6.4	retrieval efficiency	0.0	0	0			
+3.4.6.5	presentation of retrieval results	0.074	0.111	0		3.4.6.5. presentation of retrieval results	
+3.4.7	specialized information retrieval	0.165	0.266	0.502	3.4.7.3. environment-specific retrieval; 3.4.7.1.1. structured text search; 3.4.7.1.2. mathematics retrieval; 3.4.7.2.1. image search	3.4.7. specialized information retrieval	3.4.7.3. environment-specific retrieval; 3.4.7.1.1. structured text search; 3.4.7.1.2. mathematics retrieval; 3.4.7.2.1. image search
+3.4.7.1	structure and multilingual text search	0.105	0.146	0.209	3.4.7.1.1. structured text search; 3.4.7.1.2. mathematics retrieval	3.4.7.1. structure and multilingual text search	3.4.7.1.1. structured text search; 3.4.7.1.2. mathematics retrieval
+3.4.7.1.1	structured text search	0.0	0	0			
+3.4.7.1.2	mathematics retrieval	0.0	0	0			
+3.4.7.1.3	chemical and biochemical retrieval	0.074	0.111	0		3.4.7.1.3. chemical and biochemical retrieval	
+3.4.7.1.4	multilingual and cross-lingual retrieval	0.074	0.111	0		3.4.7.1.4. multilingual and cross-lingual retrieval	
+3.4.7.2	multimedia and multimodal retrieval	0.128	0.154	0.128	3.4.7.2.1. image search	3.4.7.2. multimedia and multimodal retrieval	3.4.7.2.1. image search
+3.4.7.2.1	image search	0.0	0	0			
+3.4.7.2.2	video search	0.074	0.111	0		3.4.7.2.2. video search	
+3.4.7.2.3	speech	0.074	0.111	0		3.4.7.2.3. speech	
+3.4.7.2.4	music retrieval	0.074	0.111	0		3.4.7.2.4. music retrieval	
+3.4.7.3	environment-specific retrieval	0.0	0	0.165	3.4.7.3. environment-specific retrieval		
+3.5	internet of things	0.074	0.089	0.074	3.5.2. smart city	3.5. internet of things	3.5.2. smart city
+3.5.1	smart home	0.074	0.111	0		3.5.1. smart home	
+3.5.2	smart city	0.0	0	0			
+4	human-centered computing	0.148	0.385	1.188	4.1.4. visualization systems and tools; 4.1.6. empirical studies in visualization; 4.1.7. visualization design and evaluation methods; 4.1.2.2. hyperbolic trees; 4.1.2.3. heat maps; 4.1.2.5. dendrograms; 4.1.2.6. cladograms; 4.1.2.7. elastic maps; 4.1.3.1. scientific visualization; 4.1.3.2. visual analytics; 4.1.3.4. information visualization	4. human-centered computing	4.1.4. visualization systems and tools; 4.1.6. empirical studies in visualization; 4.1.7. visualization design and evaluation methods; 4.1.2.2. hyperbolic trees; 4.1.2.3. heat maps; 4.1.2.5. dendrograms; 4.1.2.6. cladograms; 4.1.2.7. elastic maps; 4.1.3.1. scientific visualization; 4.1.3.2. visual analytics; 4.1.3.4. information visualization
+4.1.2	visualization techniques	0.105	0.209	0.523	4.1.2.2. hyperbolic trees; 4.1.2.3. heat maps; 4.1.2.5. dendrograms; 4.1.2.6. cladograms; 4.1.2.7. elastic maps	4.1.2. visualization techniques	4.1.2.2. hyperbolic trees; 4.1.2.3. heat maps; 4.1.2.5. dendrograms; 4.1.2.6. cladograms; 4.1.2.7. elastic maps
+4.1.2.1	treemaps	0.074	0.111	0		4.1.2.1. treemaps	
+4.1.2.2	hyperbolic trees	0.0	0	0			
+4.1.2.3	heat maps	0.0	0	0			
+4.1.2.4	graph drawings	0.074	0.111	0		4.1.2.4. graph drawings	
+4.1.2.5	dendrograms	0.0	0	0			
+4.1.2.6	cladograms	0.0	0	0			
+4.1.2.7	elastic maps	0.0	0	0			
+4.1.3	visualization application domains	0.074	0.111	0.222	4.1.3.1. scientific visualization; 4.1.3.2. visual analytics; 4.1.3.4. information visualization	4.1.3.3. geographic visualization	
+4.1.3.1	scientific visualization	0.0	0	0			
+4.1.3.2	visual analytics	0.0	0	0			
+4.1.3.3	geographic visualization	0.074	0.111	0		4.1.3.3. geographic visualization	
+4.1.3.4	information visualization	0.0	0	0			
+4.1.4	visualization systems and tools	0.0	0	0.148	4.1.4. visualization systems and tools		
+4.1.5	visualization theory concepts and paradigms	0.074	0.111	0		4.1.5. visualization theory concepts and paradigms	
+4.1.6	empirical studies in visualization	0.0	0	0			
+4.1.7	visualization design and evaluation methods	0.0	0	0			
+5	computing methodologies	0.601	2.397	8.983	5.1.1.2. information extraction; 5.1.1.3. machine translation; 5.1.1.9. language resources; 5.1.2.1.2. semantic networks; 5.1.2.1.3. nonmonotonic; 5.1.2.1.4. probabilistic reasoning; 5.1.2.1.5. vagueness and fuzzy logic; 5.1.2.1.7. temporal reasoning; 5.1.2.1.9. spatial and physical reasoning; 5.1.2.1.10. reasoning about belief and knowledge; 5.1.2.1.11. answering queries; 5.1.2.2.1.  knowledge sharing; 5.1.2.2.2. cognitive robotics; 5.1.2.2.6. conceptual design; 5.1.2.2.8. knowledge graph; 5.1.3.1.3. video segmentation; 5.1.3.1.6. object recognition; 5.1.3.1.7. object identification; 5.1.3.1.8. tracking; 5.1.3.2.4. hierarchical representations; 5.2.1.2.2. anomaly detection; 5.2.1.2.4. topic modeling; 5.2.1.2.5. source separation; 5.2.1.3.1. sequential decision making; 5.2.1.3.3. apprenticeship learning; 5.2.1.3.5. adversarial learning; 5.2.1.4.2. lifelong machine learning; 5.2.1.4.3. learning under covariate shift; 5.2.2.1. batch learning; 5.2.2.3. learning from demonstrations; 5.2.2.5. learning from implicit feedback; 5.2.2.6. active learning settings; 5.2.3.9. instance-based learning; 5.2.3.10. markov decision processes; 5.2.3.11. partially-observable markov decision processes; 5.2.3.13. learning latent representations; 5.2.3.1.1. parallel implementation; 5.2.3.1.3. model trees; 5.2.3.2.1. kernel support vector machines; 5.2.3.2.4. kernel independent components; 5.2.3.3.1. self organized map; 5.2.3.3.2. training approaches; 5.2.3.3.3. representation; 5.2.3.3.4. evolving nn; 5.2.3.4.1. inductive logic learning; 5.2.3.5.2. maximum entropy modeling; 5.2.3.5.3. maximum a posteriori modeling; 5.2.3.5.5. latent variable models; 5.2.3.5.6. bayesian network models; 5.2.3.6.2. linear discriminant analysis; 5.2.3.7.1. non-negative matrix factorization; 5.2.3.7.4. canonical correlation analysis; 5.2.3.7.6. latent dirichlet allocation; 5.2.3.7.8. independent component analysis; 5.2.3.7.9. nonlinear principal components; 5.2.4.3. spectral methods; 5.2.4.5. regularization; 5.2.4.1.3. policy iteration; 5.2.4.1.4. temporal difference learning; 5.2.4.1.5. approximate dynamic programming methods; 5.2.4.2.1. boosting; 5.2.4.2.2. bagging; 5.2.6.5. transformer nn; 5.2.6.6. generative adversarial networks gan; 5.2.6.2.1. pooling	5. computing methodologies	5.1.1.2. information extraction; 5.1.1.3. machine translation; 5.1.1.9. language resources; 5.1.2.1.2. semantic networks; 5.1.2.1.3. nonmonotonic; 5.1.2.1.4. probabilistic reasoning; 5.1.2.1.5. vagueness and fuzzy logic; 5.1.2.1.7. temporal reasoning; 5.1.2.1.9. spatial and physical reasoning; 5.1.2.1.10. reasoning about belief and knowledge; 5.1.2.1.11. answering queries; 5.1.2.2.1.  knowledge sharing; 5.1.2.2.2. cognitive robotics; 5.1.2.2.6. conceptual design; 5.1.2.2.8. knowledge graph; 5.1.3.1.3. video segmentation; 5.1.3.1.6. object recognition; 5.1.3.1.7. object identification; 5.1.3.1.8. tracking; 5.1.3.2.4. hierarchical representations; 5.2.1.2.2. anomaly detection; 5.2.1.2.4. topic modeling; 5.2.1.2.5. source separation; 5.2.1.3.1. sequential decision making; 5.2.1.3.3. apprenticeship learning; 5.2.1.3.5. adversarial learning; 5.2.1.4.2. lifelong machine learning; 5.2.1.4.3. learning under covariate shift; 5.2.2.1. batch learning; 5.2.2.3. learning from demonstrations; 5.2.2.5. learning from implicit feedback; 5.2.2.6. active learning settings; 5.2.3.9. instance-based learning; 5.2.3.10. markov decision processes; 5.2.3.11. partially-observable markov decision processes; 5.2.3.13. learning latent representations; 5.2.3.1.1. parallel implementation; 5.2.3.1.3. model trees; 5.2.3.2.1. kernel support vector machines; 5.2.3.2.4. kernel independent components; 5.2.3.3.1. self organized map; 5.2.3.3.2. training approaches; 5.2.3.3.3. representation; 5.2.3.3.4. evolving nn; 5.2.3.4.1. inductive logic learning; 5.2.3.5.2. maximum entropy modeling; 5.2.3.5.3. maximum a posteriori modeling; 5.2.3.5.5. latent variable models; 5.2.3.5.6. bayesian network models; 5.2.3.6.2. linear discriminant analysis; 5.2.3.7.1. non-negative matrix factorization; 5.2.3.7.4. canonical correlation analysis; 5.2.3.7.6. latent dirichlet allocation; 5.2.3.7.8. independent component analysis; 5.2.3.7.9. nonlinear principal components; 5.2.4.3. spectral methods; 5.2.4.5. regularization; 5.2.4.1.3. policy iteration; 5.2.4.1.4. temporal difference learning; 5.2.4.1.5. approximate dynamic programming methods; 5.2.4.2.1. boosting; 5.2.4.2.2. bagging; 5.2.6.5. transformer nn; 5.2.6.6. generative adversarial networks gan; 5.2.6.2.1. pooling
+5.1	artificial intelligence	0.347	0.953	3.034	5.1.1.2. information extraction; 5.1.1.3. machine translation; 5.1.1.9. language resources; 5.1.2.1.2. semantic networks; 5.1.2.1.3. nonmonotonic; 5.1.2.1.4. probabilistic reasoning; 5.1.2.1.5. vagueness and fuzzy logic; 5.1.2.1.7. temporal reasoning; 5.1.2.1.9. spatial and physical reasoning; 5.1.2.1.10. reasoning about belief and knowledge; 5.1.2.1.11. answering queries; 5.1.2.2.1.  knowledge sharing; 5.1.2.2.2. cognitive robotics; 5.1.2.2.6. conceptual design; 5.1.2.2.8. knowledge graph; 5.1.3.1.3. video segmentation; 5.1.3.1.6. object recognition; 5.1.3.1.7. object identification; 5.1.3.1.8. tracking; 5.1.3.2.4. hierarchical representations	5.1. artificial intelligence	5.1.1.2. information extraction; 5.1.1.3. machine translation; 5.1.1.9. language resources; 5.1.2.1.2. semantic networks; 5.1.2.1.3. nonmonotonic; 5.1.2.1.4. probabilistic reasoning; 5.1.2.1.5. vagueness and fuzzy logic; 5.1.2.1.7. temporal reasoning; 5.1.2.1.9. spatial and physical reasoning; 5.1.2.1.10. reasoning about belief and knowledge; 5.1.2.1.11. answering queries; 5.1.2.2.1.  knowledge sharing; 5.1.2.2.2. cognitive robotics; 5.1.2.2.6. conceptual design; 5.1.2.2.8. knowledge graph; 5.1.3.1.3. video segmentation; 5.1.3.1.6. object recognition; 5.1.3.1.7. object identification; 5.1.3.1.8. tracking; 5.1.3.2.4. hierarchical representations
+5.1.1	natural language processing	0.165	0.264	0.496	5.1.1.2. information extraction; 5.1.1.3. machine translation; 5.1.1.9. language resources	5.1.1. natural language processing	5.1.1.2. information extraction; 5.1.1.3. machine translation; 5.1.1.9. language resources
+5.1.1.2	information extraction	0.0	0	0			
+5.1.1.3	machine translation	0.0	0	0			
+5.1.1.4	discourse dialogue and pragmatics	0.074	0.111	0		5.1.1.4. discourse dialogue and pragmatics	
+5.1.1.5	natural language generation	0.074	0.111	0		5.1.1.5. natural language generation	
+5.1.1.6	speech recognition	0.074	0.111	0		5.1.1.6. speech recognition	
+5.1.1.7	lexical semantics	0.074	0.111	0		5.1.1.7. lexical semantics	
+5.1.1.8	phonology	0.074	0.111	0		5.1.1.8. phonology	
+5.1.1.9	language resources	0.0	0	0			
+5.1.2	knowledge engineering	0.209	0.546	1.685	5.1.2.1.2. semantic networks; 5.1.2.1.3. nonmonotonic; 5.1.2.1.4. probabilistic reasoning; 5.1.2.1.5. vagueness and fuzzy logic; 5.1.2.1.7. temporal reasoning; 5.1.2.1.9. spatial and physical reasoning; 5.1.2.1.10. reasoning about belief and knowledge; 5.1.2.1.11. answering queries; 5.1.2.2.1.  knowledge sharing; 5.1.2.2.2. cognitive robotics; 5.1.2.2.6. conceptual design; 5.1.2.2.8. knowledge graph	5.1.2. knowledge engineering	5.1.2.1.2. semantic networks; 5.1.2.1.3. nonmonotonic; 5.1.2.1.4. probabilistic reasoning; 5.1.2.1.5. vagueness and fuzzy logic; 5.1.2.1.7. temporal reasoning; 5.1.2.1.9. spatial and physical reasoning; 5.1.2.1.10. reasoning about belief and knowledge; 5.1.2.1.11. answering queries; 5.1.2.2.1.  knowledge sharing; 5.1.2.2.2. cognitive robotics; 5.1.2.2.6. conceptual design; 5.1.2.2.8. knowledge graph
+5.1.2.1	knowledge representation and reasoning	0.128	0.333	1.024	5.1.2.1.2. semantic networks; 5.1.2.1.3. nonmonotonic; 5.1.2.1.4. probabilistic reasoning; 5.1.2.1.5. vagueness and fuzzy logic; 5.1.2.1.7. temporal reasoning; 5.1.2.1.9. spatial and physical reasoning; 5.1.2.1.10. reasoning about belief and knowledge; 5.1.2.1.11. answering queries	5.1.2.1.1. description logics; 5.1.2.1.6. causal reasoning and diagnostics; 5.1.2.1.8. logic programming and answer set programming	
+5.1.2.1.1	description logics	0.074	0.111	0		5.1.2.1.1. description logics	
+5.1.2.1.10	reasoning about belief and knowledge	0.0	0	0			
+5.1.2.1.11	answering queries	0.0	0	0			
+5.1.2.1.2	semantic networks	0.0	0	0			
+5.1.2.1.3	nonmonotonic	0.0	0	0			
+5.1.2.1.4	probabilistic reasoning	0.0	0	0			
+5.1.2.1.5	vagueness and fuzzy logic	0.0	0	0			
+5.1.2.1.6	causal reasoning and diagnostics	0.074	0.111	0		5.1.2.1.6. causal reasoning and diagnostics	
+5.1.2.1.7	temporal reasoning	0.0	0	0			
+5.1.2.1.8	logic programming and answer set programming	0.074	0.111	0		5.1.2.1.8. logic programming and answer set programming	
+5.1.2.1.9	spatial and physical reasoning	0.0	0	0			
+5.1.2.2	knowledge management	0.165	0.298	0.661	5.1.2.2.1.  knowledge sharing; 5.1.2.2.2. cognitive robotics; 5.1.2.2.6. conceptual design; 5.1.2.2.8. knowledge graph	5.1.2.2. knowledge management	5.1.2.2.1.  knowledge sharing; 5.1.2.2.2. cognitive robotics; 5.1.2.2.6. conceptual design; 5.1.2.2.8. knowledge graph
+5.1.2.2.1	 knowledge sharing	0.0	0	0			
+5.1.2.2.2	cognitive robotics	0.0	0	0			
+5.1.2.2.3	ontology engineering	0.074	0.111	0		5.1.2.2.3. ontology engineering	
+5.1.2.2.4	semantic inference	0.074	0.111	0		5.1.2.2.4. semantic inference	
+5.1.2.2.5	recommender systems	0.074	0.111	0		5.1.2.2.5. recommender systems	
+5.1.2.2.6	conceptual design	0.0	0	0			
+5.1.2.2.7	schema matching	0.074	0.111	0		5.1.2.2.7. schema matching	
+5.1.2.2.8	knowledge graph	0.0	0	0			
+5.1.2.2.9	taxonomy mapping	0.074	0.111	0		5.1.2.2.9. taxonomy mapping	
+5.1.3	computer vision	0.222	0.392	0.852	5.1.3.1.3. video segmentation; 5.1.3.1.6. object recognition; 5.1.3.1.7. object identification; 5.1.3.1.8. tracking; 5.1.3.2.4. hierarchical representations	5.1.3. computer vision	5.1.3.1.3. video segmentation; 5.1.3.1.6. object recognition; 5.1.3.1.7. object identification; 5.1.3.1.8. tracking; 5.1.3.2.4. hierarchical representations
+5.1.3.1	computer vision problems	0.181	0.326	0.724	5.1.3.1.3. video segmentation; 5.1.3.1.6. object recognition; 5.1.3.1.7. object identification; 5.1.3.1.8. tracking	5.1.3.1. computer vision problems	5.1.3.1.3. video segmentation; 5.1.3.1.6. object recognition; 5.1.3.1.7. object identification; 5.1.3.1.8. tracking
+5.1.3.1.1	interest point and salient region detections	0.074	0.111	0		5.1.3.1.1. interest point and salient region detections	
+5.1.3.1.10	matching	0.074	0.111	0		5.1.3.1.10. matching	
+5.1.3.1.2	image segmentation	0.074	0.111	0		5.1.3.1.2. image segmentation	
+5.1.3.1.3	video segmentation	0.0	0	0			
+5.1.3.1.4	shape inference	0.074	0.111	0		5.1.3.1.4. shape inference	
+5.1.3.1.5	object detection	0.074	0.111	0		5.1.3.1.5. object detection	
+5.1.3.1.6	object recognition	0.0	0	0			
+5.1.3.1.7	object identification	0.0	0	0			
+5.1.3.1.8	tracking	0.0	0	0			
+5.1.3.1.9	reconstruction	0.074	0.111	0		5.1.3.1.9. reconstruction	
+5.1.3.2	computer vision representations	0.128	0.154	0.128	5.1.3.2.4. hierarchical representations	5.1.3.2. computer vision representations	5.1.3.2.4. hierarchical representations
+5.1.3.2.1	image representations	0.074	0.111	0		5.1.3.2.1. image representations	
+5.1.3.2.2	shape representations	0.074	0.111	0		5.1.3.2.2. shape representations	
+5.1.3.2.3	appearance and texture representations	0.074	0.111	0		5.1.3.2.3. appearance and texture representations	
+5.1.3.2.4	hierarchical representations	0.0	0	0			
+5.2	machine learning	0.49	1.68	5.95	5.2.1.2.2. anomaly detection; 5.2.1.2.4. topic modeling; 5.2.1.2.5. source separation; 5.2.1.3.1. sequential decision making; 5.2.1.3.3. apprenticeship learning; 5.2.1.3.5. adversarial learning; 5.2.1.4.2. lifelong machine learning; 5.2.1.4.3. learning under covariate shift; 5.2.2.1. batch learning; 5.2.2.3. learning from demonstrations; 5.2.2.5. learning from implicit feedback; 5.2.2.6. active learning settings; 5.2.3.9. instance-based learning; 5.2.3.10. markov decision processes; 5.2.3.11. partially-observable markov decision processes; 5.2.3.13. learning latent representations; 5.2.3.1.1. parallel implementation; 5.2.3.1.3. model trees; 5.2.3.2.1. kernel support vector machines; 5.2.3.2.4. kernel independent components; 5.2.3.3.1. self organized map; 5.2.3.3.2. training approaches; 5.2.3.3.3. representation; 5.2.3.3.4. evolving nn; 5.2.3.4.1. inductive logic learning; 5.2.3.5.2. maximum entropy modeling; 5.2.3.5.3. maximum a posteriori modeling; 5.2.3.5.5. latent variable models; 5.2.3.5.6. bayesian network models; 5.2.3.6.2. linear discriminant analysis; 5.2.3.7.1. non-negative matrix factorization; 5.2.3.7.4. canonical correlation analysis; 5.2.3.7.6. latent dirichlet allocation; 5.2.3.7.8. independent component analysis; 5.2.3.7.9. nonlinear principal components; 5.2.4.3. spectral methods; 5.2.4.5. regularization; 5.2.4.1.3. policy iteration; 5.2.4.1.4. temporal difference learning; 5.2.4.1.5. approximate dynamic programming methods; 5.2.4.2.1. boosting; 5.2.4.2.2. bagging; 5.2.6.5. transformer nn; 5.2.6.6. generative adversarial networks gan; 5.2.6.2.1. pooling	5.2. machine learning	5.2.1.2.2. anomaly detection; 5.2.1.2.4. topic modeling; 5.2.1.2.5. source separation; 5.2.1.3.1. sequential decision making; 5.2.1.3.3. apprenticeship learning; 5.2.1.3.5. adversarial learning; 5.2.1.4.2. lifelong machine learning; 5.2.1.4.3. learning under covariate shift; 5.2.2.1. batch learning; 5.2.2.3. learning from demonstrations; 5.2.2.5. learning from implicit feedback; 5.2.2.6. active learning settings; 5.2.3.9. instance-based learning; 5.2.3.10. markov decision processes; 5.2.3.11. partially-observable markov decision processes; 5.2.3.13. learning latent representations; 5.2.3.1.1. parallel implementation; 5.2.3.1.3. model trees; 5.2.3.2.1. kernel support vector machines; 5.2.3.2.4. kernel independent components; 5.2.3.3.1. self organized map; 5.2.3.3.2. training approaches; 5.2.3.3.3. representation; 5.2.3.3.4. evolving nn; 5.2.3.4.1. inductive logic learning; 5.2.3.5.2. maximum entropy modeling; 5.2.3.5.3. maximum a posteriori modeling; 5.2.3.5.5. latent variable models; 5.2.3.5.6. bayesian network models; 5.2.3.6.2. linear discriminant analysis; 5.2.3.7.1. non-negative matrix factorization; 5.2.3.7.4. canonical correlation analysis; 5.2.3.7.6. latent dirichlet allocation; 5.2.3.7.8. independent component analysis; 5.2.3.7.9. nonlinear principal components; 5.2.4.3. spectral methods; 5.2.4.5. regularization; 5.2.4.1.3. policy iteration; 5.2.4.1.4. temporal difference learning; 5.2.4.1.5. approximate dynamic programming methods; 5.2.4.2.1. boosting; 5.2.4.2.2. bagging; 5.2.6.5. transformer nn; 5.2.6.6. generative adversarial networks gan; 5.2.6.2.1. pooling
+5.2.1	learning paradigms	0.277	0.468	0.957	5.2.1.2.2. anomaly detection; 5.2.1.2.4. topic modeling; 5.2.1.2.5. source separation; 5.2.1.3.1. sequential decision making; 5.2.1.3.3. apprenticeship learning; 5.2.1.3.5. adversarial learning; 5.2.1.4.2. lifelong machine learning; 5.2.1.4.3. learning under covariate shift	5.2.1. learning paradigms	5.2.1.2.2. anomaly detection; 5.2.1.2.4. topic modeling; 5.2.1.2.5. source separation; 5.2.1.3.1. sequential decision making; 5.2.1.3.3. apprenticeship learning; 5.2.1.3.5. adversarial learning; 5.2.1.4.2. lifelong machine learning; 5.2.1.4.3. learning under covariate shift
+5.2.1.1	supervised learning	0.181	0.181	0		5.2.1.1. supervised learning	
+5.2.1.1.1	ranking	0.074	0.111	0		5.2.1.1.1. ranking	
+5.2.1.1.2	learning to rank	0.074	0.111	0		5.2.1.1.2. learning to rank	
+5.2.1.1.3	supervised learning by classification	0.074	0.111	0		5.2.1.1.3. supervised learning by classification	
+5.2.1.1.4	supervised learning by regression	0.074	0.111	0		5.2.1.1.4. supervised learning by regression	
+5.2.1.1.5	structured outputs	0.074	0.111	0		5.2.1.1.5. structured outputs	
+5.2.1.1.6	cost-sensitive learning	0.074	0.111	0		5.2.1.1.6. cost-sensitive learning	
+5.2.1.2	unsupervised learning	0.165	0.264	0.496	5.2.1.2.2. anomaly detection; 5.2.1.2.4. topic modeling; 5.2.1.2.5. source separation	5.2.1.2. unsupervised learning	5.2.1.2.2. anomaly detection; 5.2.1.2.4. topic modeling; 5.2.1.2.5. source separation
+5.2.1.2.1	cluster analysis	0.074	0.111	0		5.2.1.2.1. cluster analysis	
+5.2.1.2.2	anomaly detection	0.0	0	0			
+5.2.1.2.3	mixture modeling	0.074	0.111	0		5.2.1.2.3. mixture modeling	
+5.2.1.2.4	topic modeling	0.0	0	0			
+5.2.1.2.5	source separation	0.0	0	0			
+5.2.1.2.6	motif discovery	0.074	0.111	0		5.2.1.2.6. motif discovery	
+5.2.1.2.7	dimensionality reduction and manifold learning	0.105	0.105	0		5.2.1.2.7. dimensionality reduction and manifold learning	
+5.2.1.2.7.1	graph embedding	0.074	0.111	0		5.2.1.2.7.1. graph embedding	
+5.2.1.2.7.2	supervised dimesionality reduction	0.074	0.111	0		5.2.1.2.7.2. supervised dimesionality reduction	
+5.2.1.3	reinforcement learning	0.105	0.167	0.314	5.2.1.3.1. sequential decision making; 5.2.1.3.3. apprenticeship learning; 5.2.1.3.5. adversarial learning	5.2.1.3. reinforcement learning	5.2.1.3.1. sequential decision making; 5.2.1.3.3. apprenticeship learning; 5.2.1.3.5. adversarial learning
+5.2.1.3.1	sequential decision making	0.0	0	0			
+5.2.1.3.2	inverse reinforcement learning	0.074	0.111	0		5.2.1.3.2. inverse reinforcement learning	
+5.2.1.3.3	apprenticeship learning	0.0	0	0			
+5.2.1.3.4	multi-agent reinforcement learning	0.074	0.111	0		5.2.1.3.4. multi-agent reinforcement learning	
+5.2.1.3.5	adversarial learning	0.0	0	0			
+5.2.1.4	multi-task learning	0.074	0.103	0.148	5.2.1.4.2. lifelong machine learning; 5.2.1.4.3. learning under covariate shift	5.2.1.4. multi-task learning	5.2.1.4.2. lifelong machine learning; 5.2.1.4.3. learning under covariate shift
+5.2.1.4.1	transfer learning	0.074	0.111	0		5.2.1.4.1. transfer learning	
+5.2.1.4.2	lifelong machine learning	0.0	0	0			
+5.2.1.4.3	learning under covariate shift	0.0	0	0			
+5.2.2	learning settings	0.128	0.23	0.512	5.2.2.1. batch learning; 5.2.2.3. learning from demonstrations; 5.2.2.5. learning from implicit feedback; 5.2.2.6. active learning settings	5.2.2. learning settings	5.2.2.1. batch learning; 5.2.2.3. learning from demonstrations; 5.2.2.5. learning from implicit feedback; 5.2.2.6. active learning settings
+5.2.2.1	batch learning	0.0	0	0			
+5.2.2.2	online learning settings	0.074	0.111	0		5.2.2.2. online learning settings	
+5.2.2.3	learning from demonstrations	0.0	0	0			
+5.2.2.4	learning from critiques	0.074	0.111	0		5.2.2.4. learning from critiques	
+5.2.2.5	learning from implicit feedback	0.0	0	0			
+5.2.2.6	active learning settings	0.0	0	0			
+5.2.2.7	semi-supervised learning settings	0.074	0.111	0		5.2.2.7. semi-supervised learning settings	
+5.2.3	machine learning approaches	0.314	0.984	3.353	5.2.3.9. instance-based learning; 5.2.3.10. markov decision processes; 5.2.3.11. partially-observable markov decision processes; 5.2.3.13. learning latent representations; 5.2.3.1.1. parallel implementation; 5.2.3.1.3. model trees; 5.2.3.2.1. kernel support vector machines; 5.2.3.2.4. kernel independent components; 5.2.3.3.1. self organized map; 5.2.3.3.2. training approaches; 5.2.3.3.3. representation; 5.2.3.3.4. evolving nn; 5.2.3.4.1. inductive logic learning; 5.2.3.5.2. maximum entropy modeling; 5.2.3.5.3. maximum a posteriori modeling; 5.2.3.5.5. latent variable models; 5.2.3.5.6. bayesian network models; 5.2.3.6.2. linear discriminant analysis; 5.2.3.7.1. non-negative matrix factorization; 5.2.3.7.4. canonical correlation analysis; 5.2.3.7.6. latent dirichlet allocation; 5.2.3.7.8. independent component analysis; 5.2.3.7.9. nonlinear principal components	5.2.3. machine learning approaches	5.2.3.9. instance-based learning; 5.2.3.10. markov decision processes; 5.2.3.11. partially-observable markov decision processes; 5.2.3.13. learning latent representations; 5.2.3.1.1. parallel implementation; 5.2.3.1.3. model trees; 5.2.3.2.1. kernel support vector machines; 5.2.3.2.4. kernel independent components; 5.2.3.3.1. self organized map; 5.2.3.3.2. training approaches; 5.2.3.3.3. representation; 5.2.3.3.4. evolving nn; 5.2.3.4.1. inductive logic learning; 5.2.3.5.2. maximum entropy modeling; 5.2.3.5.3. maximum a posteriori modeling; 5.2.3.5.5. latent variable models; 5.2.3.5.6. bayesian network models; 5.2.3.6.2. linear discriminant analysis; 5.2.3.7.1. non-negative matrix factorization; 5.2.3.7.4. canonical correlation analysis; 5.2.3.7.6. latent dirichlet allocation; 5.2.3.7.8. independent component analysis; 5.2.3.7.9. nonlinear principal components
+5.2.3.1	classification and regression trees	0.074	0.103	0.148	5.2.3.1.1. parallel implementation; 5.2.3.1.3. model trees	5.2.3.1. classification and regression trees	5.2.3.1.1. parallel implementation; 5.2.3.1.3. model trees
+5.2.3.1.1	parallel implementation	0.0	0	0			
+5.2.3.1.2	splitting criteria	0.074	0.111	0		5.2.3.1.2. splitting criteria	
+5.2.3.1.3	model trees	0.0	0	0			
+5.2.3.10	markov decision processes	0.0	0	0			
+5.2.3.11	partially-observable markov decision processes	0.0	0	0			
+5.2.3.12	stochastic games	0.074	0.111	0		5.2.3.12. stochastic games	
+5.2.3.13	learning latent representations	0.0	0	0.314	5.2.3.13. learning latent representations		
+5.2.3.14	multiresolution	0.074	0.111	0		5.2.3.14. multiresolution	
+5.2.3.15	support vector machines	0.074	0.111	0		5.2.3.15. support vector machines	
+5.2.3.2	kernel methods	0.128	0.179	0.256	5.2.3.2.1. kernel support vector machines; 5.2.3.2.4. kernel independent components	5.2.3.2. kernel methods	5.2.3.2.1. kernel support vector machines; 5.2.3.2.4. kernel independent components
+5.2.3.2.1	kernel support vector machines	0.0	0	0.128	5.2.3.2.1. kernel support vector machines		
+5.2.3.2.2	gaussian processes	0.074	0.111	0		5.2.3.2.2. gaussian processes	
+5.2.3.2.3	kernel matrix	0.074	0.111	0		5.2.3.2.3. kernel matrix	
+5.2.3.2.4	kernel independent components	0.0	0	0			
+5.2.3.2.5	kernel-based clustering	0.074	0.111	0		5.2.3.2.5. kernel-based clustering	
+5.2.3.3	neural networks	0.074	0.111	0.296	5.2.3.3.1. self organized map; 5.2.3.3.2. training approaches; 5.2.3.3.3. representation; 5.2.3.3.4. evolving nn	5.2.3.3.5. ensembling	
+5.2.3.3.1	self organized map	0.0	0	0			
+5.2.3.3.2	training approaches	0.0	0	0.074	5.2.3.3.2. training approaches		
+5.2.3.3.3	representation	0.0	0	0.074	5.2.3.3.3. representation		
+5.2.3.3.4	evolving nn	0.0	0	0			
+5.2.3.3.5	ensembling	0.074	0.111	0		5.2.3.3.5. ensembling	
+5.2.3.4	logical and relational learning	0.074	0.089	0.074	5.2.3.4.1. inductive logic learning	5.2.3.4. logical and relational learning	5.2.3.4.1. inductive logic learning
+5.2.3.4.1	inductive logic learning	0.0	0	0			
+5.2.3.4.2	statistical relational learning	0.074	0.111	0		5.2.3.4.2. statistical relational learning	
+5.2.3.5	learning in probabilistic graphical models	0.128	0.23	0.512	5.2.3.5.2. maximum entropy modeling; 5.2.3.5.3. maximum a posteriori modeling; 5.2.3.5.5. latent variable models; 5.2.3.5.6. bayesian network models	5.2.3.5. learning in probabilistic graphical models	5.2.3.5.2. maximum entropy modeling; 5.2.3.5.3. maximum a posteriori modeling; 5.2.3.5.5. latent variable models; 5.2.3.5.6. bayesian network models
+5.2.3.5.1	maximum likelihood modeling	0.074	0.111	0		5.2.3.5.1. maximum likelihood modeling	
+5.2.3.5.2	maximum entropy modeling	0.0	0	0			
+5.2.3.5.3	maximum a posteriori modeling	0.0	0	0			
+5.2.3.5.4	mixture models	0.074	0.111	0		5.2.3.5.4. mixture models	
+5.2.3.5.5	latent variable models	0.0	0	0			
+5.2.3.5.6	bayesian network models	0.0	0	0			
+5.2.3.5.7	markov network models	0.074	0.111	0		5.2.3.5.7. markov network models	
+5.2.3.6	learning linear models	0.074	0.089	0.074	5.2.3.6.2. linear discriminant analysis	5.2.3.6. learning linear models	5.2.3.6.2. linear discriminant analysis
+5.2.3.6.1	perceptron algorithm	0.074	0.111	0		5.2.3.6.1. perceptron algorithm	
+5.2.3.6.2	linear discriminant analysis	0.0	0	0.074	5.2.3.6.2. linear discriminant analysis		
+5.2.3.7	factorization methods	0.148	0.296	0.739	5.2.3.7.1. non-negative matrix factorization; 5.2.3.7.4. canonical correlation analysis; 5.2.3.7.6. latent dirichlet allocation; 5.2.3.7.8. independent component analysis; 5.2.3.7.9. nonlinear principal components	5.2.3.7. factorization methods	5.2.3.7.1. non-negative matrix factorization; 5.2.3.7.4. canonical correlation analysis; 5.2.3.7.6. latent dirichlet allocation; 5.2.3.7.8. independent component analysis; 5.2.3.7.9. nonlinear principal components
+5.2.3.7.1	non-negative matrix factorization	0.0	0	0			
+5.2.3.7.10	multidimentional scaling	0.074	0.111	0		5.2.3.7.10. multidimentional scaling	
+5.2.3.7.2	factor analysis	0.074	0.111	0		5.2.3.7.2. factor analysis	
+5.2.3.7.3	principal component analysis	0.105	0.105	0		5.2.3.7.3. principal component analysis	
+5.2.3.7.3.1	2d pca	0.074	0.111	0		5.2.3.7.3.1. 2d pca	
+5.2.3.7.3.2	sparse pca	0.074	0.111	0		5.2.3.7.3.2. sparse pca	
+5.2.3.7.4	canonical correlation analysis	0.0	0	0			
+5.2.3.7.6	latent dirichlet allocation	0.0	0	0			
+5.2.3.7.8	independent component analysis	0.0	0	0			
+5.2.3.7.9	nonlinear principal components	0.0	0	0			
+5.2.3.8	rule learning	0.074	0.111	0		5.2.3.8. rule learning	
+5.2.3.9	instance-based learning	0.0	0	0			
+5.2.4	machine learning algorithms	0.148	0.299	0.757	5.2.4.3. spectral methods; 5.2.4.5. regularization; 5.2.4.1.3. policy iteration; 5.2.4.1.4. temporal difference learning; 5.2.4.1.5. approximate dynamic programming methods; 5.2.4.2.1. boosting; 5.2.4.2.2. bagging	5.2.4. machine learning algorithms	5.2.4.3. spectral methods; 5.2.4.5. regularization; 5.2.4.1.3. policy iteration; 5.2.4.1.4. temporal difference learning; 5.2.4.1.5. approximate dynamic programming methods; 5.2.4.2.1. boosting; 5.2.4.2.2. bagging
+5.2.4.1	dynamic programming for markov decision processes	0.105	0.167	0.314	5.2.4.1.3. policy iteration; 5.2.4.1.4. temporal difference learning; 5.2.4.1.5. approximate dynamic programming methods	5.2.4.1. dynamic programming for markov decision processes	5.2.4.1.3. policy iteration; 5.2.4.1.4. temporal difference learning; 5.2.4.1.5. approximate dynamic programming methods
+5.2.4.1.1	value iteration	0.074	0.111	0		5.2.4.1.1. value iteration	
+5.2.4.1.2	q-learning	0.074	0.111	0		5.2.4.1.2. q-learning	
+5.2.4.1.3	policy iteration	0.0	0	0			
+5.2.4.1.4	temporal difference learning	0.0	0	0			
+5.2.4.1.5	approximate dynamic programming methods	0.0	0	0			
+5.2.4.2	ensemble methods	0.074	0.103	0.148	5.2.4.2.1. boosting; 5.2.4.2.2. bagging	5.2.4.2. ensemble methods	5.2.4.2.1. boosting; 5.2.4.2.2. bagging
+5.2.4.2.1	boosting	0.0	0	0			
+5.2.4.2.2	bagging	0.0	0	0			
+5.2.4.2.3	fusion of classifiers	0.074	0.111	0		5.2.4.2.3. fusion of classifiers	
+5.2.4.3	spectral methods	0.0	0	0.148	5.2.4.3. spectral methods		
+5.2.4.4	feature selection	0.074	0.111	0		5.2.4.4. feature selection	
+5.2.4.5	regularization	0.0	0	0.148	5.2.4.5. regularization		
+5.2.5	cross-validation	0.074	0.111	0		5.2.5. cross-validation	
+5.2.6	deep learning	0.148	0.222	0.37	5.2.6.5. transformer nn; 5.2.6.6. generative adversarial networks gan; 5.2.6.2.1. pooling	5.2.6. deep learning	5.2.6.5. transformer nn; 5.2.6.6. generative adversarial networks gan; 5.2.6.2.1. pooling
+5.2.6.1	auto-encoder	0.074	0.111	0		5.2.6.1 auto-encoder	
+5.2.6.2	convolution neural network	0.074	0.089	0.074	5.2.6.2.1. pooling	5.2.6.2. convolution neural network	5.2.6.2.1. pooling
+5.2.6.2.1	pooling	0.0	0	0			
+5.2.6.2.2	dropout	0.074	0.111	0		5.2.6.2.2. dropout	
+5.2.6.3	deep reinforcement learning drl	0.074	0.111	0		5.2.6.3. deep reinforcement learning drl	
+5.2.6.4	recurrent neural networks rnn	0.074	0.111	0		5.2.6.4. recurrent neural networks rnn	
+5.2.6.5	transformer nn	0.0	0	0			
+5.2.6.6	generative adversarial networks gan	0.0	0	0			

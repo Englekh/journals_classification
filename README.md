@@ -9,5 +9,6 @@ Content desription:
 1. Dataset parser - contains parser of orgiginal dataset
 2. Matrix creation - contains code for creating the matricies for thurver analisys
 3. Clusterisation - contains results
+4. Results.txt - resulted clusters and thier generalisation
 
 Safeer Al-Yubary, Nickolay Larionov
